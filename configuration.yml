@@ -1,0 +1,34 @@
+# The path to save the augmented audio outputs
+augmented_audio_save_path: audio/augments/wav
+
+# The path to save the augmented metadata
+augmented_meta_save_path: audio/augments/meta
+
+# The path to save the data sources
+mir_dataset_path: wavfiles_16k
+
+
+# Harmonic/Percussive Source Separation
+hpss: 
+  apply: true
+
+# Logspace Time Stretch
+tempo_factor:
+  lower: -1
+  upper: 1
+  n_samples: 1
+
+# Linear Pitch Shift
+keys:
+  lower: -2
+  upper: 2
+  n_samples: 1
+
+# Dynamic Range Compression
+drc:
+  - "radio"
+  - "film standard"
+  - "film light"
+  - "music standard"
+  - "music light"
+  - "speech"

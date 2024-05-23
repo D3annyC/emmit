@@ -1,0 +1,2401 @@
+file_name,type,n_semitones,rate,preset,hpss,y_id,y,preset_id
+Media-103715_30_hpss,Samba,-2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103715_30,Samba,-2.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-103715_50_hpss,Samba,1.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-103715_50,Samba,1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103715_70_hpss,Samba,-1.0,1.0,music light,1,7,Waltz,2
+Media-103715_70,Samba,-1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103715_126_hpss,Samba,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103715_126,Samba,-1.0,2.0,radio,0,2,Quickstep,4
+Media-103715_74_hpss,Samba,0.0,1.0,film light,1,5,Tango,0
+Media-103715_74,Samba,0.0,1.0,film light,0,2,Quickstep,0
+Media-103715_107_hpss,Samba,0.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103715_107,Samba,0.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-103715_07_hpss,Samba,-1.0,0.5,film standard,1,7,Waltz,1
+Media-103715_07,Samba,-1.0,0.5,film standard,0,5,Tango,1
+Media-103715_103_hpss,Samba,0.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103715_103,Samba,0.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-103715_18_hpss,Samba,1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103715_18,Samba,1.0,0.5,radio,0,6,VienneseWaltz,4
+Media-103715_45_hpss,Samba,0.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-103715_45,Samba,0.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-103715_119_hpss,Samba,2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103715_119,Samba,2.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-103715_44_hpss,Samba,0.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-103715_44,Samba,0.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-103715_100_hpss,Samba,-1.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-103715_100,Samba,-1.0,1.4142135623730951,music light,0,5,Tango,2
+Media-103715_60_hpss,Samba,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103715_60,Samba,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103715_104_hpss,Samba,0.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103715_104,Samba,0.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-103715_143_hpss,Samba,1.0,2.0,speech,1,5,Tango,5
+Media-103715_143,Samba,1.0,2.0,speech,0,2,Quickstep,5
+Media-103715_38_hpss,Samba,-1.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-103715_38,Samba,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103715_114_hpss,Samba,2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103715_114,Samba,2.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-103715_109_hpss,Samba,1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103715_109,Samba,1.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-103715_62_hpss,Samba,-2.0,1.0,film light,1,7,Waltz,0
+Media-103715_62,Samba,-2.0,1.0,film light,0,2,Quickstep,0
+Media-103715_102_hpss,Samba,0.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103715_102,Samba,0.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-103715_147_hpss,Samba,2.0,2.0,music standard,1,2,Quickstep,3
+Media-103715_147,Samba,2.0,2.0,music standard,0,2,Quickstep,3
+Media-103715_141_hpss,Samba,1.0,2.0,music standard,1,5,Tango,3
+Media-103715_141,Samba,1.0,2.0,music standard,0,2,Quickstep,3
+Media-103715_72_hpss,Samba,0.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103715_72,Samba,0.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103715_90_hpss,Samba,-2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103715_90,Samba,-2.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-103715_115_hpss,Samba,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103715_115,Samba,2.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-103715_10_hpss,Samba,-1.0,0.5,music light,1,7,Waltz,2
+Media-103715_10,Samba,-1.0,0.5,music light,0,6,VienneseWaltz,2
+Media-103715_66_hpss,Samba,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103715_66,Samba,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103715_08_hpss,Samba,-1.0,0.5,film light,1,7,Waltz,0
+Media-103715_08,Samba,-1.0,0.5,film light,0,5,Tango,0
+Media-103715_40_hpss,Samba,-1.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-103715_40,Samba,-1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103715_136_hpss,Samba,0.0,2.0,music light,1,7,Waltz,2
+Media-103715_136,Samba,0.0,2.0,music light,0,2,Quickstep,2
+Media-103715_13_hpss,Samba,0.0,0.5,film standard,1,7,Waltz,1
+Media-103715_13,Samba,0.0,0.5,film standard,0,7,Waltz,1
+Media-103715_139_hpss,Samba,1.0,2.0,film standard,1,5,Tango,1
+Media-103715_139,Samba,1.0,2.0,film standard,0,2,Quickstep,1
+Media-103715_54_hpss,Samba,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103715_54,Samba,2.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103715_111_hpss,Samba,1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103715_111,Samba,1.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-103715_79_hpss,Samba,1.0,1.0,film standard,1,5,Tango,1
+Media-103715_79,Samba,1.0,1.0,film standard,0,2,Quickstep,1
+Media-103715_36_hpss,Samba,-1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103715_36,Samba,-1.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-103715_108_hpss,Samba,1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103715_108,Samba,1.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-103715_46_hpss,Samba,0.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-103715_46,Samba,0.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-103715_52_hpss,Samba,1.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-103715_52,Samba,1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103715_99_hpss,Samba,-1.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-103715_99,Samba,-1.0,1.4142135623730951,music standard,0,5,Tango,3
+Media-103715_145_hpss,Samba,2.0,2.0,film standard,1,2,Quickstep,1
+Media-103715_145,Samba,2.0,2.0,film standard,0,2,Quickstep,1
+Media-103715_138_hpss,Samba,1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103715_138,Samba,1.0,2.0,radio,0,2,Quickstep,4
+Media-103715_84_hpss,Samba,2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103715_84,Samba,2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103715_64_hpss,Samba,-2.0,1.0,music light,1,7,Waltz,2
+Media-103715_64,Samba,-2.0,1.0,music light,0,2,Quickstep,2
+Media-103715_49_hpss,Samba,1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-103715_49,Samba,1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103715_29_hpss,Samba,2.0,0.5,speech,1,7,Waltz,5
+Media-103715_29,Samba,2.0,0.5,speech,0,5,Tango,5
+Media-103715_118_hpss,Samba,2.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-103715_118,Samba,2.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-103715_129_hpss,Samba,-1.0,2.0,music standard,1,7,Waltz,3
+Media-103715_129,Samba,-1.0,2.0,music standard,0,2,Quickstep,3
+Media-103715_59_hpss,Samba,2.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103715_59,Samba,2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103715_55_hpss,Samba,2.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103715_55,Samba,2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103715_53_hpss,Samba,1.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-103715_53,Samba,1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103715_133_hpss,Samba,0.0,2.0,film standard,1,7,Waltz,1
+Media-103715_133,Samba,0.0,2.0,film standard,0,2,Quickstep,1
+Media-103715_95_hpss,Samba,-2.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-103715_95,Samba,-2.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-103715_35_hpss,Samba,-2.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-103715_35,Samba,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103715_26_hpss,Samba,2.0,0.5,film light,1,7,Waltz,0
+Media-103715_26,Samba,2.0,0.5,film light,0,5,Tango,0
+Media-103715_34_hpss,Samba,-2.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-103715_34,Samba,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103715_140_hpss,Samba,1.0,2.0,film light,1,5,Tango,0
+Media-103715_140,Samba,1.0,2.0,film light,0,2,Quickstep,0
+Media-103715_148_hpss,Samba,2.0,2.0,music light,1,2,Quickstep,2
+Media-103715_148,Samba,2.0,2.0,music light,0,2,Quickstep,2
+Media-103715_124_hpss,Samba,-2.0,2.0,music light,1,5,Tango,2
+Media-103715_124,Samba,-2.0,2.0,music light,0,2,Quickstep,2
+Media-103715_14_hpss,Samba,0.0,0.5,film light,1,7,Waltz,0
+Media-103715_14,Samba,0.0,0.5,film light,0,5,Tango,0
+Media-103715_101_hpss,Samba,-1.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-103715_101,Samba,-1.0,1.4142135623730951,speech,0,5,Tango,5
+Media-103715_12_hpss,Samba,0.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103715_12,Samba,0.0,0.5,radio,0,6,VienneseWaltz,4
+Media-103715_11_hpss,Samba,-1.0,0.5,speech,1,7,Waltz,5
+Media-103715_11,Samba,-1.0,0.5,speech,0,5,Tango,5
+Media-103715_37_hpss,Samba,-1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-103715_37,Samba,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103715_47_hpss,Samba,0.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-103715_47,Samba,0.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-103715_146_hpss,Samba,2.0,2.0,film light,1,2,Quickstep,0
+Media-103715_146,Samba,2.0,2.0,film light,0,2,Quickstep,0
+Media-103715_97_hpss,Samba,-1.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-103715_97,Samba,-1.0,1.4142135623730951,film standard,0,5,Tango,1
+Media-103715_25_hpss,Samba,2.0,0.5,film standard,1,7,Waltz,1
+Media-103715_25,Samba,2.0,0.5,film standard,0,5,Tango,1
+Media-103715_81_hpss,Samba,1.0,1.0,music standard,1,5,Tango,3
+Media-103715_81,Samba,1.0,1.0,music standard,0,2,Quickstep,3
+Media-103715_43_hpss,Samba,0.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-103715_43,Samba,0.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-103715_113_hpss,Samba,1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103715_113,Samba,1.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-103715_117_hpss,Samba,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103715_117,Samba,2.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-103715_32_hpss,Samba,-2.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-103715_32,Samba,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103715_92_hpss,Samba,-2.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-103715_92,Samba,-2.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-103715_24_hpss,Samba,2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103715_24,Samba,2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-103715_96_hpss,Samba,-1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103715_96,Samba,-1.0,1.4142135623730951,radio,0,5,Tango,4
+Media-103715_98_hpss,Samba,-1.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-103715_98,Samba,-1.0,1.4142135623730951,film light,0,5,Tango,0
+Media-103715_73_hpss,Samba,0.0,1.0,film standard,1,5,Tango,1
+Media-103715_73,Samba,0.0,1.0,film standard,0,2,Quickstep,1
+Media-103715_121_hpss,Samba,-2.0,2.0,film standard,1,5,Tango,1
+Media-103715_121,Samba,-2.0,2.0,film standard,0,2,Quickstep,1
+Media-103715_110_hpss,Samba,1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103715_110,Samba,1.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-103715_28_hpss,Samba,2.0,0.5,music light,1,7,Waltz,2
+Media-103715_28,Samba,2.0,0.5,music light,0,5,Tango,2
+Media-103715_144_hpss,Samba,2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103715_144,Samba,2.0,2.0,radio,0,2,Quickstep,4
+Media-103715_94_hpss,Samba,-2.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-103715_94,Samba,-2.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-103715_22_hpss,Samba,1.0,0.5,music light,1,7,Waltz,2
+Media-103715_22,Samba,1.0,0.5,music light,0,5,Tango,2
+Media-103715_106_hpss,Samba,0.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-103715_106,Samba,0.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-103715_85_hpss,Samba,2.0,1.0,film standard,1,5,Tango,1
+Media-103715_85,Samba,2.0,1.0,film standard,0,2,Quickstep,1
+Media-103715_134_hpss,Samba,0.0,2.0,film light,1,7,Waltz,0
+Media-103715_134,Samba,0.0,2.0,film light,0,2,Quickstep,0
+Media-103715_00_hpss,Samba,-2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103715_00,Samba,-2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-103715_42_hpss,Samba,0.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103715_42,Samba,0.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-103715_68_hpss,Samba,-1.0,1.0,film light,1,7,Waltz,0
+Media-103715_68,Samba,-1.0,1.0,film light,0,2,Quickstep,0
+Media-103715_122_hpss,Samba,-2.0,2.0,film light,1,5,Tango,0
+Media-103715_122,Samba,-2.0,2.0,film light,0,2,Quickstep,0
+Media-103715_61_hpss,Samba,-2.0,1.0,film standard,1,7,Waltz,1
+Media-103715_61,Samba,-2.0,1.0,film standard,0,2,Quickstep,1
+Media-103715_03_hpss,Samba,-2.0,0.5,music standard,1,7,Waltz,3
+Media-103715_03,Samba,-2.0,0.5,music standard,0,5,Tango,3
+Media-103715_88_hpss,Samba,2.0,1.0,music light,1,5,Tango,2
+Media-103715_88,Samba,2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103715_120_hpss,Samba,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103715_120,Samba,-2.0,2.0,radio,0,6,VienneseWaltz,4
+Media-103715_75_hpss,Samba,0.0,1.0,music standard,1,5,Tango,3
+Media-103715_75,Samba,0.0,1.0,music standard,0,2,Quickstep,3
+Media-103715_15_hpss,Samba,0.0,0.5,music standard,1,7,Waltz,3
+Media-103715_15,Samba,0.0,0.5,music standard,0,7,Waltz,3
+Media-103715_77_hpss,Samba,0.0,1.0,speech,1,5,Tango,5
+Media-103715_77,Samba,0.0,1.0,speech,0,2,Quickstep,5
+Media-103715_33_hpss,Samba,-2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-103715_33,Samba,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103715_02_hpss,Samba,-2.0,0.5,film light,1,7,Waltz,0
+Media-103715_02,Samba,-2.0,0.5,film light,0,5,Tango,0
+Media-103715_93_hpss,Samba,-2.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-103715_93,Samba,-2.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-103715_71_hpss,Samba,-1.0,1.0,speech,1,7,Waltz,5
+Media-103715_71,Samba,-1.0,1.0,speech,0,2,Quickstep,5
+Media-103715_112_hpss,Samba,1.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-103715_112,Samba,1.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-103715_130_hpss,Samba,-1.0,2.0,music light,1,7,Waltz,2
+Media-103715_130,Samba,-1.0,2.0,music light,0,2,Quickstep,2
+Media-103715_41_hpss,Samba,-1.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-103715_41,Samba,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103715_58_hpss,Samba,2.0,0.7071067811865476,music light,1,5,Tango,2
+Media-103715_58,Samba,2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103715_39_hpss,Samba,-1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-103715_39,Samba,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103715_149_hpss,Samba,2.0,2.0,speech,1,2,Quickstep,5
+Media-103715_149,Samba,2.0,2.0,speech,0,2,Quickstep,5
+Media-103715_27_hpss,Samba,2.0,0.5,music standard,1,7,Waltz,3
+Media-103715_27,Samba,2.0,0.5,music standard,0,5,Tango,3
+Media-103715_142_hpss,Samba,1.0,2.0,music light,1,5,Tango,2
+Media-103715_142,Samba,1.0,2.0,music light,0,2,Quickstep,2
+Media-103715_86_hpss,Samba,2.0,1.0,film light,1,5,Tango,0
+Media-103715_86,Samba,2.0,1.0,film light,0,2,Quickstep,0
+Media-103715_65_hpss,Samba,-2.0,1.0,speech,1,7,Waltz,5
+Media-103715_65,Samba,-2.0,1.0,speech,0,2,Quickstep,5
+Media-103715_127_hpss,Samba,-1.0,2.0,film standard,1,7,Waltz,1
+Media-103715_127,Samba,-1.0,2.0,film standard,0,2,Quickstep,1
+Media-103715_63_hpss,Samba,-2.0,1.0,music standard,1,7,Waltz,3
+Media-103715_63,Samba,-2.0,1.0,music standard,0,2,Quickstep,3
+Media-103715_51_hpss,Samba,1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-103715_51,Samba,1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103715_76_hpss,Samba,0.0,1.0,music light,1,5,Tango,2
+Media-103715_76,Samba,0.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103715_67_hpss,Samba,-1.0,1.0,film standard,1,7,Waltz,1
+Media-103715_67,Samba,-1.0,1.0,film standard,0,2,Quickstep,1
+Media-103715_69_hpss,Samba,-1.0,1.0,music standard,1,7,Waltz,3
+Media-103715_69,Samba,-1.0,1.0,music standard,0,2,Quickstep,3
+Media-103715_31_hpss,Samba,-2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-103715_31,Samba,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103715_06_hpss,Samba,-1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103715_06,Samba,-1.0,0.5,radio,0,6,VienneseWaltz,4
+Media-103715_132_hpss,Samba,0.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103715_132,Samba,0.0,2.0,radio,0,2,Quickstep,4
+Media-103715_89_hpss,Samba,2.0,1.0,speech,1,5,Tango,5
+Media-103715_89,Samba,2.0,1.0,speech,0,2,Quickstep,5
+Media-103715_19_hpss,Samba,1.0,0.5,film standard,1,7,Waltz,1
+Media-103715_19,Samba,1.0,0.5,film standard,0,5,Tango,1
+Media-103715_48_hpss,Samba,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103715_48,Samba,1.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103715_05_hpss,Samba,-2.0,0.5,speech,1,7,Waltz,5
+Media-103715_05,Samba,-2.0,0.5,speech,0,5,Tango,5
+Media-103715_56_hpss,Samba,2.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103715_56,Samba,2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103715_09_hpss,Samba,-1.0,0.5,music standard,1,7,Waltz,3
+Media-103715_09,Samba,-1.0,0.5,music standard,0,5,Tango,3
+Media-103715_57_hpss,Samba,2.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103715_57,Samba,2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103715_04_hpss,Samba,-2.0,0.5,music light,1,7,Waltz,2
+Media-103715_04,Samba,-2.0,0.5,music light,0,5,Tango,2
+Media-103715_80_hpss,Samba,1.0,1.0,film light,1,5,Tango,0
+Media-103715_80,Samba,1.0,1.0,film light,0,2,Quickstep,0
+Media-103715_87_hpss,Samba,2.0,1.0,music standard,1,5,Tango,3
+Media-103715_87,Samba,2.0,1.0,music standard,0,2,Quickstep,3
+Media-103715_137_hpss,Samba,0.0,2.0,speech,1,7,Waltz,5
+Media-103715_137,Samba,0.0,2.0,speech,0,2,Quickstep,5
+Media-103715_23_hpss,Samba,1.0,0.5,speech,1,7,Waltz,5
+Media-103715_23,Samba,1.0,0.5,speech,0,5,Tango,5
+Media-103715_91_hpss,Samba,-2.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-103715_91,Samba,-2.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-103715_20_hpss,Samba,1.0,0.5,film light,1,7,Waltz,0
+Media-103715_20,Samba,1.0,0.5,film light,0,5,Tango,0
+Media-103715_82_hpss,Samba,1.0,1.0,music light,1,5,Tango,2
+Media-103715_82,Samba,1.0,1.0,music light,0,2,Quickstep,2
+Media-103715_131_hpss,Samba,-1.0,2.0,speech,1,7,Waltz,5
+Media-103715_131,Samba,-1.0,2.0,speech,0,2,Quickstep,5
+Media-103715_128_hpss,Samba,-1.0,2.0,film light,1,7,Waltz,0
+Media-103715_128,Samba,-1.0,2.0,film light,0,2,Quickstep,0
+Media-103715_78_hpss,Samba,1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103715_78,Samba,1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103715_01_hpss,Samba,-2.0,0.5,film standard,1,7,Waltz,1
+Media-103715_01,Samba,-2.0,0.5,film standard,0,5,Tango,1
+Media-103715_116_hpss,Samba,2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103715_116,Samba,2.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-103715_16_hpss,Samba,0.0,0.5,music light,1,7,Waltz,2
+Media-103715_16,Samba,0.0,0.5,music light,0,6,VienneseWaltz,2
+Media-103715_123_hpss,Samba,-2.0,2.0,music standard,1,5,Tango,3
+Media-103715_123,Samba,-2.0,2.0,music standard,0,2,Quickstep,3
+Media-103715_83_hpss,Samba,1.0,1.0,speech,1,5,Tango,5
+Media-103715_83,Samba,1.0,1.0,speech,0,2,Quickstep,5
+Media-103715_17_hpss,Samba,0.0,0.5,speech,1,7,Waltz,5
+Media-103715_17,Samba,0.0,0.5,speech,0,7,Waltz,5
+Media-103715_135_hpss,Samba,0.0,2.0,music standard,1,7,Waltz,3
+Media-103715_135,Samba,0.0,2.0,music standard,0,2,Quickstep,3
+Media-103715_21_hpss,Samba,1.0,0.5,music standard,1,7,Waltz,3
+Media-103715_21,Samba,1.0,0.5,music standard,0,5,Tango,3
+Media-103715_125_hpss,Samba,-2.0,2.0,speech,1,5,Tango,5
+Media-103715_125,Samba,-2.0,2.0,speech,0,2,Quickstep,5
+Media-103715_105_hpss,Samba,0.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103715_105,Samba,0.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-105002_92_hpss,Waltz,-2.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-105002_92,Waltz,-2.0,1.4142135623730951,film light,0,7,Waltz,0
+Media-105002_23_hpss,Waltz,1.0,0.5,speech,1,7,Waltz,5
+Media-105002_23,Waltz,1.0,0.5,speech,0,7,Waltz,5
+Media-105002_37_hpss,Waltz,-1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105002_37,Waltz,-1.0,0.7071067811865476,film standard,0,7,Waltz,1
+Media-105002_16_hpss,Waltz,0.0,0.5,music light,1,7,Waltz,2
+Media-105002_16,Waltz,0.0,0.5,music light,0,7,Waltz,2
+Media-105002_44_hpss,Waltz,0.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105002_44,Waltz,0.0,0.7071067811865476,film light,0,7,Waltz,0
+Media-105002_110_hpss,Waltz,1.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-105002_110,Waltz,1.0,1.4142135623730951,film light,0,7,Waltz,0
+Media-105002_122_hpss,Waltz,-2.0,2.0,film light,1,7,Waltz,0
+Media-105002_122,Waltz,-2.0,2.0,film light,0,7,Waltz,0
+Media-105002_00_hpss,Waltz,-2.0,0.5,radio,1,7,Waltz,4
+Media-105002_00,Waltz,-2.0,0.5,radio,0,7,Waltz,4
+Media-105002_123_hpss,Waltz,-2.0,2.0,music standard,1,7,Waltz,3
+Media-105002_123,Waltz,-2.0,2.0,music standard,0,7,Waltz,3
+Media-105002_65_hpss,Waltz,-2.0,1.0,speech,1,7,Waltz,5
+Media-105002_65,Waltz,-2.0,1.0,speech,0,7,Waltz,5
+Media-105002_26_hpss,Waltz,2.0,0.5,film light,1,7,Waltz,0
+Media-105002_26,Waltz,2.0,0.5,film light,0,7,Waltz,0
+Media-105002_118_hpss,Waltz,2.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-105002_118,Waltz,2.0,1.4142135623730951,music light,0,7,Waltz,2
+Media-105002_106_hpss,Waltz,0.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-105002_106,Waltz,0.0,1.4142135623730951,music light,0,7,Waltz,2
+Media-105002_71_hpss,Waltz,-1.0,1.0,speech,1,7,Waltz,5
+Media-105002_71,Waltz,-1.0,1.0,speech,0,7,Waltz,5
+Media-105002_129_hpss,Waltz,-1.0,2.0,music standard,1,7,Waltz,3
+Media-105002_129,Waltz,-1.0,2.0,music standard,0,7,Waltz,3
+Media-105002_53_hpss,Waltz,1.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105002_53,Waltz,1.0,0.7071067811865476,speech,0,7,Waltz,5
+Media-105002_09_hpss,Waltz,-1.0,0.5,music standard,1,7,Waltz,3
+Media-105002_09,Waltz,-1.0,0.5,music standard,0,7,Waltz,3
+Media-105002_134_hpss,Waltz,0.0,2.0,film light,1,7,Waltz,0
+Media-105002_134,Waltz,0.0,2.0,film light,0,7,Waltz,0
+Media-105002_75_hpss,Waltz,0.0,1.0,music standard,1,7,Waltz,3
+Media-105002_75,Waltz,0.0,1.0,music standard,0,7,Waltz,3
+Media-105002_43_hpss,Waltz,0.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105002_43,Waltz,0.0,0.7071067811865476,film standard,0,7,Waltz,1
+Media-105002_138_hpss,Waltz,1.0,2.0,radio,1,7,Waltz,4
+Media-105002_138,Waltz,1.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105002_14_hpss,Waltz,0.0,0.5,film light,1,7,Waltz,0
+Media-105002_14,Waltz,0.0,0.5,film light,0,7,Waltz,0
+Media-105002_116_hpss,Waltz,2.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-105002_116,Waltz,2.0,1.4142135623730951,film light,0,7,Waltz,0
+Media-105002_21_hpss,Waltz,1.0,0.5,music standard,1,7,Waltz,3
+Media-105002_21,Waltz,1.0,0.5,music standard,0,7,Waltz,3
+Media-105002_49_hpss,Waltz,1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105002_49,Waltz,1.0,0.7071067811865476,film standard,0,7,Waltz,1
+Media-105002_03_hpss,Waltz,-2.0,0.5,music standard,1,7,Waltz,3
+Media-105002_03,Waltz,-2.0,0.5,music standard,0,7,Waltz,3
+Media-105002_105_hpss,Waltz,0.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-105002_105,Waltz,0.0,1.4142135623730951,music standard,0,7,Waltz,3
+Media-105002_121_hpss,Waltz,-2.0,2.0,film standard,1,7,Waltz,1
+Media-105002_121,Waltz,-2.0,2.0,film standard,0,7,Waltz,1
+Media-105002_97_hpss,Waltz,-1.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-105002_97,Waltz,-1.0,1.4142135623730951,film standard,0,7,Waltz,1
+Media-105002_20_hpss,Waltz,1.0,0.5,film light,1,7,Waltz,0
+Media-105002_20,Waltz,1.0,0.5,film light,0,7,Waltz,0
+Media-105002_78_hpss,Waltz,1.0,1.0,radio,1,7,Waltz,4
+Media-105002_78,Waltz,1.0,1.0,radio,0,7,Waltz,4
+Media-105002_10_hpss,Waltz,-1.0,0.5,music light,1,7,Waltz,2
+Media-105002_10,Waltz,-1.0,0.5,music light,0,7,Waltz,2
+Media-105002_60_hpss,Waltz,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105002_60,Waltz,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105002_45_hpss,Waltz,0.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105002_45,Waltz,0.0,0.7071067811865476,music standard,0,7,Waltz,3
+Media-105002_22_hpss,Waltz,1.0,0.5,music light,1,7,Waltz,2
+Media-105002_22,Waltz,1.0,0.5,music light,0,7,Waltz,2
+Media-105002_124_hpss,Waltz,-2.0,2.0,music light,1,7,Waltz,2
+Media-105002_124,Waltz,-2.0,2.0,music light,0,7,Waltz,2
+Media-105002_103_hpss,Waltz,0.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-105002_103,Waltz,0.0,1.4142135623730951,film standard,0,7,Waltz,1
+Media-105002_33_hpss,Waltz,-2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105002_33,Waltz,-2.0,0.7071067811865476,music standard,0,7,Waltz,3
+Media-105002_139_hpss,Waltz,1.0,2.0,film standard,1,7,Waltz,1
+Media-105002_139,Waltz,1.0,2.0,film standard,0,5,Tango,1
+Media-105002_05_hpss,Waltz,-2.0,0.5,speech,1,7,Waltz,5
+Media-105002_05,Waltz,-2.0,0.5,speech,0,7,Waltz,5
+Media-105002_35_hpss,Waltz,-2.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105002_35,Waltz,-2.0,0.7071067811865476,speech,0,7,Waltz,5
+Media-105002_64_hpss,Waltz,-2.0,1.0,music light,1,7,Waltz,2
+Media-105002_64,Waltz,-2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105002_89_hpss,Waltz,2.0,1.0,speech,1,7,Waltz,5
+Media-105002_89,Waltz,2.0,1.0,speech,0,7,Waltz,5
+Media-105002_41_hpss,Waltz,-1.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105002_41,Waltz,-1.0,0.7071067811865476,speech,0,7,Waltz,5
+Media-105002_51_hpss,Waltz,1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105002_51,Waltz,1.0,0.7071067811865476,music standard,0,7,Waltz,3
+Media-105002_42_hpss,Waltz,0.0,0.7071067811865476,radio,1,7,Waltz,4
+Media-105002_42,Waltz,0.0,0.7071067811865476,radio,0,7,Waltz,4
+Media-105002_102_hpss,Waltz,0.0,1.4142135623730951,radio,1,7,Waltz,4
+Media-105002_102,Waltz,0.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105002_83_hpss,Waltz,1.0,1.0,speech,1,7,Waltz,5
+Media-105002_83,Waltz,1.0,1.0,speech,0,7,Waltz,5
+Media-105002_93_hpss,Waltz,-2.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-105002_93,Waltz,-2.0,1.4142135623730951,music standard,0,7,Waltz,3
+Media-105002_66_hpss,Waltz,-1.0,1.0,radio,1,7,Waltz,4
+Media-105002_66,Waltz,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105002_67_hpss,Waltz,-1.0,1.0,film standard,1,7,Waltz,1
+Media-105002_67,Waltz,-1.0,1.0,film standard,0,7,Waltz,1
+Media-105002_79_hpss,Waltz,1.0,1.0,film standard,1,7,Waltz,1
+Media-105002_79,Waltz,1.0,1.0,film standard,0,7,Waltz,1
+Media-105002_06_hpss,Waltz,-1.0,0.5,radio,1,7,Waltz,4
+Media-105002_06,Waltz,-1.0,0.5,radio,0,7,Waltz,4
+Media-105002_132_hpss,Waltz,0.0,2.0,radio,1,7,Waltz,4
+Media-105002_132,Waltz,0.0,2.0,radio,0,7,Waltz,4
+Media-105002_127_hpss,Waltz,-1.0,2.0,film standard,1,7,Waltz,1
+Media-105002_127,Waltz,-1.0,2.0,film standard,0,7,Waltz,1
+Media-105002_24_hpss,Waltz,2.0,0.5,radio,1,7,Waltz,4
+Media-105002_24,Waltz,2.0,0.5,radio,0,7,Waltz,4
+Media-105002_144_hpss,Waltz,2.0,2.0,radio,1,7,Waltz,4
+Media-105002_144,Waltz,2.0,2.0,radio,0,7,Waltz,4
+Media-105002_104_hpss,Waltz,0.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-105002_104,Waltz,0.0,1.4142135623730951,film light,0,7,Waltz,0
+Media-105002_38_hpss,Waltz,-1.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105002_38,Waltz,-1.0,0.7071067811865476,film light,0,7,Waltz,0
+Media-105002_108_hpss,Waltz,1.0,1.4142135623730951,radio,1,7,Waltz,4
+Media-105002_108,Waltz,1.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105002_117_hpss,Waltz,2.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-105002_117,Waltz,2.0,1.4142135623730951,music standard,0,7,Waltz,3
+Media-105002_19_hpss,Waltz,1.0,0.5,film standard,1,7,Waltz,1
+Media-105002_19,Waltz,1.0,0.5,film standard,0,7,Waltz,1
+Media-105002_81_hpss,Waltz,1.0,1.0,music standard,1,7,Waltz,3
+Media-105002_81,Waltz,1.0,1.0,music standard,0,7,Waltz,3
+Media-105002_73_hpss,Waltz,0.0,1.0,film standard,1,7,Waltz,1
+Media-105002_73,Waltz,0.0,1.0,film standard,0,7,Waltz,1
+Media-105002_55_hpss,Waltz,2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105002_55,Waltz,2.0,0.7071067811865476,film standard,0,7,Waltz,1
+Media-105002_136_hpss,Waltz,0.0,2.0,music light,1,7,Waltz,2
+Media-105002_136,Waltz,0.0,2.0,music light,0,7,Waltz,2
+Media-105002_18_hpss,Waltz,1.0,0.5,radio,1,7,Waltz,4
+Media-105002_18,Waltz,1.0,0.5,radio,0,7,Waltz,4
+Media-105002_11_hpss,Waltz,-1.0,0.5,speech,1,7,Waltz,5
+Media-105002_11,Waltz,-1.0,0.5,speech,0,7,Waltz,5
+Media-105002_32_hpss,Waltz,-2.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105002_32,Waltz,-2.0,0.7071067811865476,film light,0,7,Waltz,0
+Media-105002_120_hpss,Waltz,-2.0,2.0,radio,1,7,Waltz,4
+Media-105002_120,Waltz,-2.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105002_145_hpss,Waltz,2.0,2.0,film standard,1,7,Waltz,1
+Media-105002_145,Waltz,2.0,2.0,film standard,0,7,Waltz,1
+Media-105002_36_hpss,Waltz,-1.0,0.7071067811865476,radio,1,7,Waltz,4
+Media-105002_36,Waltz,-1.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105002_12_hpss,Waltz,0.0,0.5,radio,1,7,Waltz,4
+Media-105002_12,Waltz,0.0,0.5,radio,0,7,Waltz,4
+Media-105002_61_hpss,Waltz,-2.0,1.0,film standard,1,7,Waltz,1
+Media-105002_61,Waltz,-2.0,1.0,film standard,0,7,Waltz,1
+Media-105002_130_hpss,Waltz,-1.0,2.0,music light,1,7,Waltz,2
+Media-105002_130,Waltz,-1.0,2.0,music light,0,7,Waltz,2
+Media-105002_148_hpss,Waltz,2.0,2.0,music light,1,7,Waltz,2
+Media-105002_148,Waltz,2.0,2.0,music light,0,7,Waltz,2
+Media-105002_142_hpss,Waltz,1.0,2.0,music light,1,7,Waltz,2
+Media-105002_142,Waltz,1.0,2.0,music light,0,5,Tango,2
+Media-105002_87_hpss,Waltz,2.0,1.0,music standard,1,7,Waltz,3
+Media-105002_87,Waltz,2.0,1.0,music standard,0,7,Waltz,3
+Media-105002_149_hpss,Waltz,2.0,2.0,speech,1,7,Waltz,5
+Media-105002_149,Waltz,2.0,2.0,speech,0,7,Waltz,5
+Media-105002_95_hpss,Waltz,-2.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-105002_95,Waltz,-2.0,1.4142135623730951,speech,0,7,Waltz,5
+Media-105002_85_hpss,Waltz,2.0,1.0,film standard,1,7,Waltz,1
+Media-105002_85,Waltz,2.0,1.0,film standard,0,7,Waltz,1
+Media-105002_143_hpss,Waltz,1.0,2.0,speech,1,7,Waltz,5
+Media-105002_143,Waltz,1.0,2.0,speech,0,5,Tango,5
+Media-105002_126_hpss,Waltz,-1.0,2.0,radio,1,7,Waltz,4
+Media-105002_126,Waltz,-1.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105002_99_hpss,Waltz,-1.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-105002_99,Waltz,-1.0,1.4142135623730951,music standard,0,7,Waltz,3
+Media-105002_17_hpss,Waltz,0.0,0.5,speech,1,7,Waltz,5
+Media-105002_17,Waltz,0.0,0.5,speech,0,7,Waltz,5
+Media-105002_147_hpss,Waltz,2.0,2.0,music standard,1,7,Waltz,3
+Media-105002_147,Waltz,2.0,2.0,music standard,0,7,Waltz,3
+Media-105002_62_hpss,Waltz,-2.0,1.0,film light,1,7,Waltz,0
+Media-105002_62,Waltz,-2.0,1.0,film light,0,7,Waltz,0
+Media-105002_28_hpss,Waltz,2.0,0.5,music light,1,7,Waltz,2
+Media-105002_28,Waltz,2.0,0.5,music light,0,7,Waltz,2
+Media-105002_137_hpss,Waltz,0.0,2.0,speech,1,7,Waltz,5
+Media-105002_137,Waltz,0.0,2.0,speech,0,7,Waltz,5
+Media-105002_57_hpss,Waltz,2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105002_57,Waltz,2.0,0.7071067811865476,music standard,0,7,Waltz,3
+Media-105002_13_hpss,Waltz,0.0,0.5,film standard,1,7,Waltz,1
+Media-105002_13,Waltz,0.0,0.5,film standard,0,7,Waltz,1
+Media-105002_58_hpss,Waltz,2.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-105002_58,Waltz,2.0,0.7071067811865476,music light,0,7,Waltz,2
+Media-105002_100_hpss,Waltz,-1.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-105002_100,Waltz,-1.0,1.4142135623730951,music light,0,7,Waltz,2
+Media-105002_59_hpss,Waltz,2.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105002_59,Waltz,2.0,0.7071067811865476,speech,0,7,Waltz,5
+Media-105002_96_hpss,Waltz,-1.0,1.4142135623730951,radio,1,7,Waltz,4
+Media-105002_96,Waltz,-1.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105002_113_hpss,Waltz,1.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-105002_113,Waltz,1.0,1.4142135623730951,speech,0,7,Waltz,5
+Media-105002_39_hpss,Waltz,-1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105002_39,Waltz,-1.0,0.7071067811865476,music standard,0,7,Waltz,3
+Media-105002_133_hpss,Waltz,0.0,2.0,film standard,1,7,Waltz,1
+Media-105002_133,Waltz,0.0,2.0,film standard,0,7,Waltz,1
+Media-105002_01_hpss,Waltz,-2.0,0.5,film standard,1,7,Waltz,1
+Media-105002_01,Waltz,-2.0,0.5,film standard,0,7,Waltz,1
+Media-105002_98_hpss,Waltz,-1.0,1.4142135623730951,film light,1,7,Waltz,0
+Media-105002_98,Waltz,-1.0,1.4142135623730951,film light,0,7,Waltz,0
+Media-105002_101_hpss,Waltz,-1.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-105002_101,Waltz,-1.0,1.4142135623730951,speech,0,7,Waltz,5
+Media-105002_107_hpss,Waltz,0.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-105002_107,Waltz,0.0,1.4142135623730951,speech,0,7,Waltz,5
+Media-105002_91_hpss,Waltz,-2.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-105002_91,Waltz,-2.0,1.4142135623730951,film standard,0,7,Waltz,1
+Media-105002_128_hpss,Waltz,-1.0,2.0,film light,1,7,Waltz,0
+Media-105002_128,Waltz,-1.0,2.0,film light,0,7,Waltz,0
+Media-105002_56_hpss,Waltz,2.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105002_56,Waltz,2.0,0.7071067811865476,film light,0,7,Waltz,0
+Media-105002_63_hpss,Waltz,-2.0,1.0,music standard,1,7,Waltz,3
+Media-105002_63,Waltz,-2.0,1.0,music standard,0,7,Waltz,3
+Media-105002_77_hpss,Waltz,0.0,1.0,speech,1,7,Waltz,5
+Media-105002_77,Waltz,0.0,1.0,speech,0,7,Waltz,5
+Media-105002_140_hpss,Waltz,1.0,2.0,film light,1,7,Waltz,0
+Media-105002_140,Waltz,1.0,2.0,film light,0,5,Tango,0
+Media-105002_08_hpss,Waltz,-1.0,0.5,film light,1,7,Waltz,0
+Media-105002_08,Waltz,-1.0,0.5,film light,0,7,Waltz,0
+Media-105002_135_hpss,Waltz,0.0,2.0,music standard,1,7,Waltz,3
+Media-105002_135,Waltz,0.0,2.0,music standard,0,7,Waltz,3
+Media-105002_27_hpss,Waltz,2.0,0.5,music standard,1,7,Waltz,3
+Media-105002_27,Waltz,2.0,0.5,music standard,0,7,Waltz,3
+Media-105002_02_hpss,Waltz,-2.0,0.5,film light,1,7,Waltz,0
+Media-105002_02,Waltz,-2.0,0.5,film light,0,7,Waltz,0
+Media-105002_70_hpss,Waltz,-1.0,1.0,music light,1,7,Waltz,2
+Media-105002_70,Waltz,-1.0,1.0,music light,0,7,Waltz,2
+Media-105002_111_hpss,Waltz,1.0,1.4142135623730951,music standard,1,7,Waltz,3
+Media-105002_111,Waltz,1.0,1.4142135623730951,music standard,0,7,Waltz,3
+Media-105002_80_hpss,Waltz,1.0,1.0,film light,1,7,Waltz,0
+Media-105002_80,Waltz,1.0,1.0,film light,0,7,Waltz,0
+Media-105002_76_hpss,Waltz,0.0,1.0,music light,1,7,Waltz,2
+Media-105002_76,Waltz,0.0,1.0,music light,0,7,Waltz,2
+Media-105002_48_hpss,Waltz,1.0,0.7071067811865476,radio,1,7,Waltz,4
+Media-105002_48,Waltz,1.0,0.7071067811865476,radio,0,7,Waltz,4
+Media-105002_141_hpss,Waltz,1.0,2.0,music standard,1,7,Waltz,3
+Media-105002_141,Waltz,1.0,2.0,music standard,0,5,Tango,3
+Media-105002_74_hpss,Waltz,0.0,1.0,film light,1,7,Waltz,0
+Media-105002_74,Waltz,0.0,1.0,film light,0,7,Waltz,0
+Media-105002_88_hpss,Waltz,2.0,1.0,music light,1,7,Waltz,2
+Media-105002_88,Waltz,2.0,1.0,music light,0,7,Waltz,2
+Media-105002_34_hpss,Waltz,-2.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-105002_34,Waltz,-2.0,0.7071067811865476,music light,0,7,Waltz,2
+Media-105002_54_hpss,Waltz,2.0,0.7071067811865476,radio,1,7,Waltz,4
+Media-105002_54,Waltz,2.0,0.7071067811865476,radio,0,7,Waltz,4
+Media-105002_82_hpss,Waltz,1.0,1.0,music light,1,7,Waltz,2
+Media-105002_82,Waltz,1.0,1.0,music light,0,7,Waltz,2
+Media-105002_52_hpss,Waltz,1.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-105002_52,Waltz,1.0,0.7071067811865476,music light,0,7,Waltz,2
+Media-105002_86_hpss,Waltz,2.0,1.0,film light,1,7,Waltz,0
+Media-105002_86,Waltz,2.0,1.0,film light,0,7,Waltz,0
+Media-105002_84_hpss,Waltz,2.0,1.0,radio,1,7,Waltz,4
+Media-105002_84,Waltz,2.0,1.0,radio,0,7,Waltz,4
+Media-105002_07_hpss,Waltz,-1.0,0.5,film standard,1,7,Waltz,1
+Media-105002_07,Waltz,-1.0,0.5,film standard,0,7,Waltz,1
+Media-105002_29_hpss,Waltz,2.0,0.5,speech,1,7,Waltz,5
+Media-105002_29,Waltz,2.0,0.5,speech,0,7,Waltz,5
+Media-105002_90_hpss,Waltz,-2.0,1.4142135623730951,radio,1,7,Waltz,4
+Media-105002_90,Waltz,-2.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105002_25_hpss,Waltz,2.0,0.5,film standard,1,7,Waltz,1
+Media-105002_25,Waltz,2.0,0.5,film standard,0,7,Waltz,1
+Media-105002_109_hpss,Waltz,1.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-105002_109,Waltz,1.0,1.4142135623730951,film standard,0,7,Waltz,1
+Media-105002_30_hpss,Waltz,-2.0,0.7071067811865476,radio,1,7,Waltz,4
+Media-105002_30,Waltz,-2.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105002_115_hpss,Waltz,2.0,1.4142135623730951,film standard,1,7,Waltz,1
+Media-105002_115,Waltz,2.0,1.4142135623730951,film standard,0,7,Waltz,1
+Media-105002_31_hpss,Waltz,-2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105002_31,Waltz,-2.0,0.7071067811865476,film standard,0,7,Waltz,1
+Media-105002_94_hpss,Waltz,-2.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-105002_94,Waltz,-2.0,1.4142135623730951,music light,0,7,Waltz,2
+Media-105002_146_hpss,Waltz,2.0,2.0,film light,1,7,Waltz,0
+Media-105002_146,Waltz,2.0,2.0,film light,0,7,Waltz,0
+Media-105002_112_hpss,Waltz,1.0,1.4142135623730951,music light,1,7,Waltz,2
+Media-105002_112,Waltz,1.0,1.4142135623730951,music light,0,7,Waltz,2
+Media-105002_119_hpss,Waltz,2.0,1.4142135623730951,speech,1,7,Waltz,5
+Media-105002_119,Waltz,2.0,1.4142135623730951,speech,0,7,Waltz,5
+Media-105002_40_hpss,Waltz,-1.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-105002_40,Waltz,-1.0,0.7071067811865476,music light,0,7,Waltz,2
+Media-105002_72_hpss,Waltz,0.0,1.0,radio,1,7,Waltz,4
+Media-105002_72,Waltz,0.0,1.0,radio,0,7,Waltz,4
+Media-105002_46_hpss,Waltz,0.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-105002_46,Waltz,0.0,0.7071067811865476,music light,0,7,Waltz,2
+Media-105002_47_hpss,Waltz,0.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105002_47,Waltz,0.0,0.7071067811865476,speech,0,7,Waltz,5
+Media-105002_04_hpss,Waltz,-2.0,0.5,music light,1,7,Waltz,2
+Media-105002_04,Waltz,-2.0,0.5,music light,0,7,Waltz,2
+Media-105002_114_hpss,Waltz,2.0,1.4142135623730951,radio,1,7,Waltz,4
+Media-105002_114,Waltz,2.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105002_68_hpss,Waltz,-1.0,1.0,film light,1,7,Waltz,0
+Media-105002_68,Waltz,-1.0,1.0,film light,0,7,Waltz,0
+Media-105002_15_hpss,Waltz,0.0,0.5,music standard,1,7,Waltz,3
+Media-105002_15,Waltz,0.0,0.5,music standard,0,7,Waltz,3
+Media-105002_50_hpss,Waltz,1.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105002_50,Waltz,1.0,0.7071067811865476,film light,0,7,Waltz,0
+Media-105002_69_hpss,Waltz,-1.0,1.0,music standard,1,7,Waltz,3
+Media-105002_69,Waltz,-1.0,1.0,music standard,0,7,Waltz,3
+Media-105002_125_hpss,Waltz,-2.0,2.0,speech,1,7,Waltz,5
+Media-105002_125,Waltz,-2.0,2.0,speech,0,7,Waltz,5
+Media-105002_131_hpss,Waltz,-1.0,2.0,speech,1,7,Waltz,5
+Media-105002_131,Waltz,-1.0,2.0,speech,0,7,Waltz,5
+Media-103719_62_hpss,Jive,-2.0,1.0,film light,1,6,VienneseWaltz,0
+Media-103719_62,Jive,-2.0,1.0,film light,0,4,Samba,0
+Media-103719_147_hpss,Jive,2.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103719_147,Jive,2.0,2.0,music standard,0,2,Quickstep,3
+Media-103719_33_hpss,Jive,-2.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-103719_33,Jive,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103719_58_hpss,Jive,2.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-103719_58,Jive,2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103719_52_hpss,Jive,1.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-103719_52,Jive,1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103719_149_hpss,Jive,2.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103719_149,Jive,2.0,2.0,speech,0,2,Quickstep,5
+Media-103719_26_hpss,Jive,2.0,0.5,film light,1,7,Waltz,0
+Media-103719_26,Jive,2.0,0.5,film light,0,5,Tango,0
+Media-103719_07_hpss,Jive,-1.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-103719_07,Jive,-1.0,0.5,film standard,0,5,Tango,1
+Media-103719_17_hpss,Jive,0.0,0.5,speech,1,6,VienneseWaltz,5
+Media-103719_17,Jive,0.0,0.5,speech,0,5,Tango,5
+Media-103719_46_hpss,Jive,0.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-103719_46,Jive,0.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103719_39_hpss,Jive,-1.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-103719_39,Jive,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103719_91_hpss,Jive,-2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103719_91,Jive,-2.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-103719_23_hpss,Jive,1.0,0.5,speech,1,7,Waltz,5
+Media-103719_23,Jive,1.0,0.5,speech,0,5,Tango,5
+Media-103719_133_hpss,Jive,0.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103719_133,Jive,0.0,2.0,film standard,0,2,Quickstep,1
+Media-103719_09_hpss,Jive,-1.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-103719_09,Jive,-1.0,0.5,music standard,0,5,Tango,3
+Media-103719_31_hpss,Jive,-2.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-103719_31,Jive,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103719_68_hpss,Jive,-1.0,1.0,film light,1,6,VienneseWaltz,0
+Media-103719_68,Jive,-1.0,1.0,film light,0,2,Quickstep,0
+Media-103719_109_hpss,Jive,1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103719_109,Jive,1.0,1.4142135623730951,film standard,0,1,Jive,1
+Media-103719_138_hpss,Jive,1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103719_138,Jive,1.0,2.0,radio,0,2,Quickstep,4
+Media-103719_139_hpss,Jive,1.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103719_139,Jive,1.0,2.0,film standard,0,2,Quickstep,1
+Media-103719_136_hpss,Jive,0.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103719_136,Jive,0.0,2.0,music light,0,2,Quickstep,2
+Media-103719_19_hpss,Jive,1.0,0.5,film standard,1,7,Waltz,1
+Media-103719_19,Jive,1.0,0.5,film standard,0,5,Tango,1
+Media-103719_18_hpss,Jive,1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103719_18,Jive,1.0,0.5,radio,0,5,Tango,4
+Media-103719_35_hpss,Jive,-2.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-103719_35,Jive,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103719_135_hpss,Jive,0.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103719_135,Jive,0.0,2.0,music standard,0,2,Quickstep,3
+Media-103719_88_hpss,Jive,2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103719_88,Jive,2.0,1.0,music light,0,2,Quickstep,2
+Media-103719_128_hpss,Jive,-1.0,2.0,film light,1,5,Tango,0
+Media-103719_128,Jive,-1.0,2.0,film light,0,2,Quickstep,0
+Media-103719_53_hpss,Jive,1.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-103719_53,Jive,1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103719_143_hpss,Jive,1.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103719_143,Jive,1.0,2.0,speech,0,2,Quickstep,5
+Media-103719_111_hpss,Jive,1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103719_111,Jive,1.0,1.4142135623730951,music standard,0,1,Jive,3
+Media-103719_86_hpss,Jive,2.0,1.0,film light,1,6,VienneseWaltz,0
+Media-103719_86,Jive,2.0,1.0,film light,0,2,Quickstep,0
+Media-103719_65_hpss,Jive,-2.0,1.0,speech,1,6,VienneseWaltz,5
+Media-103719_65,Jive,-2.0,1.0,speech,0,4,Samba,5
+Media-103719_92_hpss,Jive,-2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103719_92,Jive,-2.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-103719_96_hpss,Jive,-1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103719_96,Jive,-1.0,1.4142135623730951,radio,0,1,Jive,4
+Media-103719_120_hpss,Jive,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103719_120,Jive,-2.0,2.0,radio,0,2,Quickstep,4
+Media-103719_113_hpss,Jive,1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103719_113,Jive,1.0,1.4142135623730951,speech,0,1,Jive,5
+Media-103719_78_hpss,Jive,1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103719_78,Jive,1.0,1.0,radio,0,2,Quickstep,4
+Media-103719_64_hpss,Jive,-2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103719_64,Jive,-2.0,1.0,music light,0,4,Samba,2
+Media-103719_08_hpss,Jive,-1.0,0.5,film light,1,6,VienneseWaltz,0
+Media-103719_08,Jive,-1.0,0.5,film light,0,5,Tango,0
+Media-103719_97_hpss,Jive,-1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103719_97,Jive,-1.0,1.4142135623730951,film standard,0,1,Jive,1
+Media-103719_60_hpss,Jive,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103719_60,Jive,-2.0,1.0,radio,0,4,Samba,4
+Media-103719_40_hpss,Jive,-1.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-103719_40,Jive,-1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103719_127_hpss,Jive,-1.0,2.0,film standard,1,5,Tango,1
+Media-103719_127,Jive,-1.0,2.0,film standard,0,2,Quickstep,1
+Media-103719_108_hpss,Jive,1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103719_108,Jive,1.0,1.4142135623730951,radio,0,1,Jive,4
+Media-103719_100_hpss,Jive,-1.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-103719_100,Jive,-1.0,1.4142135623730951,music light,0,1,Jive,2
+Media-103719_02_hpss,Jive,-2.0,0.5,film light,1,7,Waltz,0
+Media-103719_02,Jive,-2.0,0.5,film light,0,5,Tango,0
+Media-103719_76_hpss,Jive,0.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103719_76,Jive,0.0,1.0,music light,0,2,Quickstep,2
+Media-103719_75_hpss,Jive,0.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-103719_75,Jive,0.0,1.0,music standard,0,2,Quickstep,3
+Media-103719_125_hpss,Jive,-2.0,2.0,speech,1,5,Tango,5
+Media-103719_125,Jive,-2.0,2.0,speech,0,2,Quickstep,5
+Media-103719_105_hpss,Jive,0.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103719_105,Jive,0.0,1.4142135623730951,music standard,0,1,Jive,3
+Media-103719_59_hpss,Jive,2.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-103719_59,Jive,2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103719_61_hpss,Jive,-2.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-103719_61,Jive,-2.0,1.0,film standard,0,4,Samba,1
+Media-103719_15_hpss,Jive,0.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-103719_15,Jive,0.0,0.5,music standard,0,5,Tango,3
+Media-103719_55_hpss,Jive,2.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-103719_55,Jive,2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103719_63_hpss,Jive,-2.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-103719_63,Jive,-2.0,1.0,music standard,0,4,Samba,3
+Media-103719_142_hpss,Jive,1.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103719_142,Jive,1.0,2.0,music light,0,2,Quickstep,2
+Media-103719_106_hpss,Jive,0.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-103719_106,Jive,0.0,1.4142135623730951,music light,0,1,Jive,2
+Media-103719_69_hpss,Jive,-1.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-103719_69,Jive,-1.0,1.0,music standard,0,2,Quickstep,3
+Media-103719_29_hpss,Jive,2.0,0.5,speech,1,7,Waltz,5
+Media-103719_29,Jive,2.0,0.5,speech,0,5,Tango,5
+Media-103719_16_hpss,Jive,0.0,0.5,music light,1,6,VienneseWaltz,2
+Media-103719_16,Jive,0.0,0.5,music light,0,5,Tango,2
+Media-103719_41_hpss,Jive,-1.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-103719_41,Jive,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103719_47_hpss,Jive,0.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-103719_47,Jive,0.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103719_89_hpss,Jive,2.0,1.0,speech,1,6,VienneseWaltz,5
+Media-103719_89,Jive,2.0,1.0,speech,0,2,Quickstep,5
+Media-103719_126_hpss,Jive,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103719_126,Jive,-1.0,2.0,radio,0,2,Quickstep,4
+Media-103719_71_hpss,Jive,-1.0,1.0,speech,1,6,VienneseWaltz,5
+Media-103719_71,Jive,-1.0,1.0,speech,0,2,Quickstep,5
+Media-103719_134_hpss,Jive,0.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103719_134,Jive,0.0,2.0,film light,0,2,Quickstep,0
+Media-103719_87_hpss,Jive,2.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-103719_87,Jive,2.0,1.0,music standard,0,2,Quickstep,3
+Media-103719_72_hpss,Jive,0.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103719_72,Jive,0.0,1.0,radio,0,2,Quickstep,4
+Media-103719_74_hpss,Jive,0.0,1.0,film light,1,6,VienneseWaltz,0
+Media-103719_74,Jive,0.0,1.0,film light,0,2,Quickstep,0
+Media-103719_79_hpss,Jive,1.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-103719_79,Jive,1.0,1.0,film standard,0,2,Quickstep,1
+Media-103719_77_hpss,Jive,0.0,1.0,speech,1,6,VienneseWaltz,5
+Media-103719_77,Jive,0.0,1.0,speech,0,2,Quickstep,5
+Media-103719_01_hpss,Jive,-2.0,0.5,film standard,1,7,Waltz,1
+Media-103719_01,Jive,-2.0,0.5,film standard,0,5,Tango,1
+Media-103719_00_hpss,Jive,-2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103719_00,Jive,-2.0,0.5,radio,0,5,Tango,4
+Media-103719_83_hpss,Jive,1.0,1.0,speech,1,6,VienneseWaltz,5
+Media-103719_83,Jive,1.0,1.0,speech,0,2,Quickstep,5
+Media-103719_30_hpss,Jive,-2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103719_30,Jive,-2.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103719_84_hpss,Jive,2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103719_84,Jive,2.0,1.0,radio,0,2,Quickstep,4
+Media-103719_05_hpss,Jive,-2.0,0.5,speech,1,7,Waltz,5
+Media-103719_05,Jive,-2.0,0.5,speech,0,5,Tango,5
+Media-103719_42_hpss,Jive,0.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103719_42,Jive,0.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103719_119_hpss,Jive,2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103719_119,Jive,2.0,1.4142135623730951,speech,0,1,Jive,5
+Media-103719_28_hpss,Jive,2.0,0.5,music light,1,6,VienneseWaltz,2
+Media-103719_28,Jive,2.0,0.5,music light,0,5,Tango,2
+Media-103719_101_hpss,Jive,-1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103719_101,Jive,-1.0,1.4142135623730951,speech,0,1,Jive,5
+Media-103719_44_hpss,Jive,0.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-103719_44,Jive,0.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103719_103_hpss,Jive,0.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103719_103,Jive,0.0,1.4142135623730951,film standard,0,1,Jive,1
+Media-103719_67_hpss,Jive,-1.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-103719_67,Jive,-1.0,1.0,film standard,0,2,Quickstep,1
+Media-103719_137_hpss,Jive,0.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103719_137,Jive,0.0,2.0,speech,0,2,Quickstep,5
+Media-103719_66_hpss,Jive,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103719_66,Jive,-1.0,1.0,radio,0,2,Quickstep,4
+Media-103719_124_hpss,Jive,-2.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103719_124,Jive,-2.0,2.0,music light,0,2,Quickstep,2
+Media-103719_11_hpss,Jive,-1.0,0.5,speech,1,6,VienneseWaltz,5
+Media-103719_11,Jive,-1.0,0.5,speech,0,5,Tango,5
+Media-103719_129_hpss,Jive,-1.0,2.0,music standard,1,5,Tango,3
+Media-103719_129,Jive,-1.0,2.0,music standard,0,2,Quickstep,3
+Media-103719_45_hpss,Jive,0.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-103719_45,Jive,0.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103719_118_hpss,Jive,2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103719_118,Jive,2.0,1.4142135623730951,music light,0,1,Jive,2
+Media-103719_94_hpss,Jive,-2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103719_94,Jive,-2.0,1.4142135623730951,music light,0,1,Jive,2
+Media-103719_14_hpss,Jive,0.0,0.5,film light,1,6,VienneseWaltz,0
+Media-103719_14,Jive,0.0,0.5,film light,0,5,Tango,0
+Media-103719_132_hpss,Jive,0.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103719_132,Jive,0.0,2.0,radio,0,6,VienneseWaltz,4
+Media-103719_116_hpss,Jive,2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103719_116,Jive,2.0,1.4142135623730951,film light,0,1,Jive,0
+Media-103719_115_hpss,Jive,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103719_115,Jive,2.0,1.4142135623730951,film standard,0,1,Jive,1
+Media-103719_85_hpss,Jive,2.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-103719_85,Jive,2.0,1.0,film standard,0,2,Quickstep,1
+Media-103719_27_hpss,Jive,2.0,0.5,music standard,1,7,Waltz,3
+Media-103719_27,Jive,2.0,0.5,music standard,0,5,Tango,3
+Media-103719_95_hpss,Jive,-2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103719_95,Jive,-2.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-103719_24_hpss,Jive,2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103719_24,Jive,2.0,0.5,radio,0,5,Tango,4
+Media-103719_104_hpss,Jive,0.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103719_104,Jive,0.0,1.4142135623730951,film light,0,1,Jive,0
+Media-103719_21_hpss,Jive,1.0,0.5,music standard,1,7,Waltz,3
+Media-103719_21,Jive,1.0,0.5,music standard,0,5,Tango,3
+Media-103719_48_hpss,Jive,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103719_48,Jive,1.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103719_32_hpss,Jive,-2.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-103719_32,Jive,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103719_73_hpss,Jive,0.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-103719_73,Jive,0.0,1.0,film standard,0,2,Quickstep,1
+Media-103719_140_hpss,Jive,1.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103719_140,Jive,1.0,2.0,film light,0,2,Quickstep,0
+Media-103719_81_hpss,Jive,1.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-103719_81,Jive,1.0,1.0,music standard,0,2,Quickstep,3
+Media-103719_130_hpss,Jive,-1.0,2.0,music light,1,5,Tango,2
+Media-103719_130,Jive,-1.0,2.0,music light,0,2,Quickstep,2
+Media-103719_99_hpss,Jive,-1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103719_99,Jive,-1.0,1.4142135623730951,music standard,0,1,Jive,3
+Media-103719_112_hpss,Jive,1.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103719_112,Jive,1.0,1.4142135623730951,music light,0,1,Jive,2
+Media-103719_56_hpss,Jive,2.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-103719_56,Jive,2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103719_123_hpss,Jive,-2.0,2.0,music standard,1,5,Tango,3
+Media-103719_123,Jive,-2.0,2.0,music standard,0,2,Quickstep,3
+Media-103719_107_hpss,Jive,0.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103719_107,Jive,0.0,1.4142135623730951,speech,0,1,Jive,5
+Media-103719_25_hpss,Jive,2.0,0.5,film standard,1,7,Waltz,1
+Media-103719_25,Jive,2.0,0.5,film standard,0,5,Tango,1
+Media-103719_57_hpss,Jive,2.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-103719_57,Jive,2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103719_22_hpss,Jive,1.0,0.5,music light,1,6,VienneseWaltz,2
+Media-103719_22,Jive,1.0,0.5,music light,0,5,Tango,2
+Media-103719_12_hpss,Jive,0.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103719_12,Jive,0.0,0.5,radio,0,5,Tango,4
+Media-103719_114_hpss,Jive,2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103719_114,Jive,2.0,1.4142135623730951,radio,0,1,Jive,4
+Media-103719_141_hpss,Jive,1.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103719_141,Jive,1.0,2.0,music standard,0,2,Quickstep,3
+Media-103719_117_hpss,Jive,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103719_117,Jive,2.0,1.4142135623730951,music standard,0,1,Jive,3
+Media-103719_54_hpss,Jive,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103719_54,Jive,2.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103719_146_hpss,Jive,2.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103719_146,Jive,2.0,2.0,film light,0,2,Quickstep,0
+Media-103719_131_hpss,Jive,-1.0,2.0,speech,1,5,Tango,5
+Media-103719_131,Jive,-1.0,2.0,speech,0,2,Quickstep,5
+Media-103719_37_hpss,Jive,-1.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-103719_37,Jive,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103719_10_hpss,Jive,-1.0,0.5,music light,1,6,VienneseWaltz,2
+Media-103719_10,Jive,-1.0,0.5,music light,0,5,Tango,2
+Media-103719_102_hpss,Jive,0.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103719_102,Jive,0.0,1.4142135623730951,radio,0,1,Jive,4
+Media-103719_36_hpss,Jive,-1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103719_36,Jive,-1.0,0.7071067811865476,radio,0,5,Tango,4
+Media-103719_80_hpss,Jive,1.0,1.0,film light,1,6,VienneseWaltz,0
+Media-103719_80,Jive,1.0,1.0,film light,0,2,Quickstep,0
+Media-103719_51_hpss,Jive,1.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-103719_51,Jive,1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103719_121_hpss,Jive,-2.0,2.0,film standard,1,5,Tango,1
+Media-103719_121,Jive,-2.0,2.0,film standard,0,2,Quickstep,1
+Media-103719_03_hpss,Jive,-2.0,0.5,music standard,1,7,Waltz,3
+Media-103719_03,Jive,-2.0,0.5,music standard,0,5,Tango,3
+Media-103719_38_hpss,Jive,-1.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-103719_38,Jive,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103719_34_hpss,Jive,-2.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-103719_34,Jive,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103719_20_hpss,Jive,1.0,0.5,film light,1,7,Waltz,0
+Media-103719_20,Jive,1.0,0.5,film light,0,5,Tango,0
+Media-103719_43_hpss,Jive,0.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-103719_43,Jive,0.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103719_50_hpss,Jive,1.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-103719_50,Jive,1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103719_13_hpss,Jive,0.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-103719_13,Jive,0.0,0.5,film standard,0,5,Tango,1
+Media-103719_49_hpss,Jive,1.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-103719_49,Jive,1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103719_06_hpss,Jive,-1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-103719_06,Jive,-1.0,0.5,radio,0,5,Tango,4
+Media-103719_110_hpss,Jive,1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103719_110,Jive,1.0,1.4142135623730951,film light,0,1,Jive,0
+Media-103719_04_hpss,Jive,-2.0,0.5,music light,1,6,VienneseWaltz,2
+Media-103719_04,Jive,-2.0,0.5,music light,0,5,Tango,2
+Media-103719_70_hpss,Jive,-1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103719_70,Jive,-1.0,1.0,music light,0,2,Quickstep,2
+Media-103719_93_hpss,Jive,-2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103719_93,Jive,-2.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-103719_145_hpss,Jive,2.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103719_145,Jive,2.0,2.0,film standard,0,2,Quickstep,1
+Media-103719_122_hpss,Jive,-2.0,2.0,film light,1,5,Tango,0
+Media-103719_122,Jive,-2.0,2.0,film light,0,2,Quickstep,0
+Media-103719_148_hpss,Jive,2.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103719_148,Jive,2.0,2.0,music light,0,2,Quickstep,2
+Media-103719_82_hpss,Jive,1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103719_82,Jive,1.0,1.0,music light,0,2,Quickstep,2
+Media-103719_144_hpss,Jive,2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103719_144,Jive,2.0,2.0,radio,0,2,Quickstep,4
+Media-103719_90_hpss,Jive,-2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-103719_90,Jive,-2.0,1.4142135623730951,radio,0,1,Jive,4
+Media-103719_98_hpss,Jive,-1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103719_98,Jive,-1.0,1.4142135623730951,film light,0,1,Jive,0
+Albums-Latin_Jam2-09_65_hpss,Rumba,-2.0,1.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_65,Rumba,-2.0,1.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_05_hpss,Rumba,-2.0,0.5,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_05,Rumba,-2.0,0.5,speech,0,7,Waltz,5
+Albums-Latin_Jam2-09_06_hpss,Rumba,-1.0,0.5,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_06,Rumba,-1.0,0.5,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_14_hpss,Rumba,0.0,0.5,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_14,Rumba,0.0,0.5,film light,0,7,Waltz,0
+Albums-Latin_Jam2-09_64_hpss,Rumba,-2.0,1.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_64,Rumba,-2.0,1.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_110_hpss,Rumba,1.0,1.4142135623730951,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_110,Rumba,1.0,1.4142135623730951,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_80_hpss,Rumba,1.0,1.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_80,Rumba,1.0,1.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_118_hpss,Rumba,2.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Latin_Jam2-09_118,Rumba,2.0,1.4142135623730951,music light,0,3,Rumba,2
+Albums-Latin_Jam2-09_51_hpss,Rumba,1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_51,Rumba,1.0,0.7071067811865476,music standard,0,0,ChaChaCha,3
+Albums-Latin_Jam2-09_96_hpss,Rumba,-1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_96,Rumba,-1.0,1.4142135623730951,radio,0,3,Rumba,4
+Albums-Latin_Jam2-09_145_hpss,Rumba,2.0,2.0,film standard,1,5,Tango,1
+Albums-Latin_Jam2-09_145,Rumba,2.0,2.0,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_21_hpss,Rumba,1.0,0.5,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_21,Rumba,1.0,0.5,music standard,0,7,Waltz,3
+Albums-Latin_Jam2-09_135_hpss,Rumba,0.0,2.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_135,Rumba,0.0,2.0,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_88_hpss,Rumba,2.0,1.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_88,Rumba,2.0,1.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_122_hpss,Rumba,-2.0,2.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_122,Rumba,-2.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_57_hpss,Rumba,2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_57,Rumba,2.0,0.7071067811865476,music standard,0,0,ChaChaCha,3
+Albums-Latin_Jam2-09_109_hpss,Rumba,1.0,1.4142135623730951,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_109,Rumba,1.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_92_hpss,Rumba,-2.0,1.4142135623730951,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_92,Rumba,-2.0,1.4142135623730951,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_63_hpss,Rumba,-2.0,1.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_63,Rumba,-2.0,1.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_76_hpss,Rumba,0.0,1.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_76,Rumba,0.0,1.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_133_hpss,Rumba,0.0,2.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_133,Rumba,0.0,2.0,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_61_hpss,Rumba,-2.0,1.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_61,Rumba,-2.0,1.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_10_hpss,Rumba,-1.0,0.5,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_10,Rumba,-1.0,0.5,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_121_hpss,Rumba,-2.0,2.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_121,Rumba,-2.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_44_hpss,Rumba,0.0,0.7071067811865476,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_44,Rumba,0.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_87_hpss,Rumba,2.0,1.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_87,Rumba,2.0,1.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_11_hpss,Rumba,-1.0,0.5,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_11,Rumba,-1.0,0.5,speech,0,7,Waltz,5
+Albums-Latin_Jam2-09_28_hpss,Rumba,2.0,0.5,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_28,Rumba,2.0,0.5,music light,0,7,Waltz,2
+Albums-Latin_Jam2-09_143_hpss,Rumba,1.0,2.0,speech,1,5,Tango,5
+Albums-Latin_Jam2-09_143,Rumba,1.0,2.0,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_98_hpss,Rumba,-1.0,1.4142135623730951,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_98,Rumba,-1.0,1.4142135623730951,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_137_hpss,Rumba,0.0,2.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_137,Rumba,0.0,2.0,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_89_hpss,Rumba,2.0,1.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_89,Rumba,2.0,1.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_74_hpss,Rumba,0.0,1.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_74,Rumba,0.0,1.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_100_hpss,Rumba,-1.0,1.4142135623730951,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_100,Rumba,-1.0,1.4142135623730951,music light,0,2,Quickstep,2
+Albums-Latin_Jam2-09_101_hpss,Rumba,-1.0,1.4142135623730951,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_101,Rumba,-1.0,1.4142135623730951,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_149_hpss,Rumba,2.0,2.0,speech,1,5,Tango,5
+Albums-Latin_Jam2-09_149,Rumba,2.0,2.0,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_105_hpss,Rumba,0.0,1.4142135623730951,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_105,Rumba,0.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_54_hpss,Rumba,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_54,Rumba,2.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Latin_Jam2-09_91_hpss,Rumba,-2.0,1.4142135623730951,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_91,Rumba,-2.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_117_hpss,Rumba,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Latin_Jam2-09_117,Rumba,2.0,1.4142135623730951,music standard,0,3,Rumba,3
+Albums-Latin_Jam2-09_115_hpss,Rumba,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Latin_Jam2-09_115,Rumba,2.0,1.4142135623730951,film standard,0,3,Rumba,1
+Albums-Latin_Jam2-09_18_hpss,Rumba,1.0,0.5,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_18,Rumba,1.0,0.5,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_26_hpss,Rumba,2.0,0.5,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_26,Rumba,2.0,0.5,film light,0,7,Waltz,0
+Albums-Latin_Jam2-09_53_hpss,Rumba,1.0,0.7071067811865476,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_53,Rumba,1.0,0.7071067811865476,speech,0,0,ChaChaCha,5
+Albums-Latin_Jam2-09_19_hpss,Rumba,1.0,0.5,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_19,Rumba,1.0,0.5,film standard,0,7,Waltz,1
+Albums-Latin_Jam2-09_112_hpss,Rumba,1.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_112,Rumba,1.0,1.4142135623730951,music light,0,2,Quickstep,2
+Albums-Latin_Jam2-09_20_hpss,Rumba,1.0,0.5,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_20,Rumba,1.0,0.5,film light,0,7,Waltz,0
+Albums-Latin_Jam2-09_66_hpss,Rumba,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_66,Rumba,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_134_hpss,Rumba,0.0,2.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_134,Rumba,0.0,2.0,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_131_hpss,Rumba,-1.0,2.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_131,Rumba,-1.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_75_hpss,Rumba,0.0,1.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_75,Rumba,0.0,1.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_16_hpss,Rumba,0.0,0.5,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_16,Rumba,0.0,0.5,music light,0,7,Waltz,2
+Albums-Latin_Jam2-09_108_hpss,Rumba,1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_108,Rumba,1.0,1.4142135623730951,radio,0,2,Quickstep,4
+Albums-Latin_Jam2-09_140_hpss,Rumba,1.0,2.0,film light,1,5,Tango,0
+Albums-Latin_Jam2-09_140,Rumba,1.0,2.0,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_116_hpss,Rumba,2.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Latin_Jam2-09_116,Rumba,2.0,1.4142135623730951,film light,0,3,Rumba,0
+Albums-Latin_Jam2-09_127_hpss,Rumba,-1.0,2.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_127,Rumba,-1.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_07_hpss,Rumba,-1.0,0.5,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_07,Rumba,-1.0,0.5,film standard,0,7,Waltz,1
+Albums-Latin_Jam2-09_128_hpss,Rumba,-1.0,2.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_128,Rumba,-1.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_72_hpss,Rumba,0.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_72,Rumba,0.0,1.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_46_hpss,Rumba,0.0,0.7071067811865476,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_46,Rumba,0.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_32_hpss,Rumba,-2.0,0.7071067811865476,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_32,Rumba,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Latin_Jam2-09_97_hpss,Rumba,-1.0,1.4142135623730951,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_97,Rumba,-1.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_90_hpss,Rumba,-2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_90,Rumba,-2.0,1.4142135623730951,radio,0,2,Quickstep,4
+Albums-Latin_Jam2-09_45_hpss,Rumba,0.0,0.7071067811865476,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_45,Rumba,0.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_27_hpss,Rumba,2.0,0.5,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_27,Rumba,2.0,0.5,music standard,0,7,Waltz,3
+Albums-Latin_Jam2-09_56_hpss,Rumba,2.0,0.7071067811865476,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_56,Rumba,2.0,0.7071067811865476,film light,0,0,ChaChaCha,0
+Albums-Latin_Jam2-09_01_hpss,Rumba,-2.0,0.5,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_01,Rumba,-2.0,0.5,film standard,0,7,Waltz,1
+Albums-Latin_Jam2-09_106_hpss,Rumba,0.0,1.4142135623730951,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_106,Rumba,0.0,1.4142135623730951,music light,0,3,Rumba,2
+Albums-Latin_Jam2-09_29_hpss,Rumba,2.0,0.5,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_29,Rumba,2.0,0.5,speech,0,7,Waltz,5
+Albums-Latin_Jam2-09_83_hpss,Rumba,1.0,1.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_83,Rumba,1.0,1.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_73_hpss,Rumba,0.0,1.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_73,Rumba,0.0,1.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_138_hpss,Rumba,1.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_138,Rumba,1.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_30_hpss,Rumba,-2.0,0.7071067811865476,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_30,Rumba,-2.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_85_hpss,Rumba,2.0,1.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_85,Rumba,2.0,1.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_130_hpss,Rumba,-1.0,2.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_130,Rumba,-1.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_00_hpss,Rumba,-2.0,0.5,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_00,Rumba,-2.0,0.5,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_31_hpss,Rumba,-2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_31,Rumba,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Latin_Jam2-09_71_hpss,Rumba,-1.0,1.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_71,Rumba,-1.0,1.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_144_hpss,Rumba,2.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_144,Rumba,2.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_93_hpss,Rumba,-2.0,1.4142135623730951,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_93,Rumba,-2.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_08_hpss,Rumba,-1.0,0.5,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_08,Rumba,-1.0,0.5,film light,0,7,Waltz,0
+Albums-Latin_Jam2-09_142_hpss,Rumba,1.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_142,Rumba,1.0,2.0,music light,0,2,Quickstep,2
+Albums-Latin_Jam2-09_12_hpss,Rumba,0.0,0.5,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_12,Rumba,0.0,0.5,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_79_hpss,Rumba,1.0,1.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_79,Rumba,1.0,1.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_123_hpss,Rumba,-2.0,2.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_123,Rumba,-2.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_09_hpss,Rumba,-1.0,0.5,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_09,Rumba,-1.0,0.5,music standard,0,7,Waltz,3
+Albums-Latin_Jam2-09_111_hpss,Rumba,1.0,1.4142135623730951,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_111,Rumba,1.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_125_hpss,Rumba,-2.0,2.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_125,Rumba,-2.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_52_hpss,Rumba,1.0,0.7071067811865476,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_52,Rumba,1.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Latin_Jam2-09_03_hpss,Rumba,-2.0,0.5,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_03,Rumba,-2.0,0.5,music standard,0,7,Waltz,3
+Albums-Latin_Jam2-09_48_hpss,Rumba,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_48,Rumba,1.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Latin_Jam2-09_22_hpss,Rumba,1.0,0.5,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_22,Rumba,1.0,0.5,music light,0,7,Waltz,2
+Albums-Latin_Jam2-09_102_hpss,Rumba,0.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_102,Rumba,0.0,1.4142135623730951,radio,0,3,Rumba,4
+Albums-Latin_Jam2-09_04_hpss,Rumba,-2.0,0.5,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_04,Rumba,-2.0,0.5,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_23_hpss,Rumba,1.0,0.5,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_23,Rumba,1.0,0.5,speech,0,7,Waltz,5
+Albums-Latin_Jam2-09_94_hpss,Rumba,-2.0,1.4142135623730951,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_94,Rumba,-2.0,1.4142135623730951,music light,0,2,Quickstep,2
+Albums-Latin_Jam2-09_113_hpss,Rumba,1.0,1.4142135623730951,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_113,Rumba,1.0,1.4142135623730951,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_25_hpss,Rumba,2.0,0.5,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_25,Rumba,2.0,0.5,film standard,0,7,Waltz,1
+Albums-Latin_Jam2-09_86_hpss,Rumba,2.0,1.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_86,Rumba,2.0,1.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_120_hpss,Rumba,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_120,Rumba,-2.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_02_hpss,Rumba,-2.0,0.5,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_02,Rumba,-2.0,0.5,film light,0,7,Waltz,0
+Albums-Latin_Jam2-09_37_hpss,Rumba,-1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_37,Rumba,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Latin_Jam2-09_55_hpss,Rumba,2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_55,Rumba,2.0,0.7071067811865476,film standard,0,0,ChaChaCha,1
+Albums-Latin_Jam2-09_34_hpss,Rumba,-2.0,0.7071067811865476,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_34,Rumba,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Latin_Jam2-09_15_hpss,Rumba,0.0,0.5,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_15,Rumba,0.0,0.5,music standard,0,7,Waltz,3
+Albums-Latin_Jam2-09_59_hpss,Rumba,2.0,0.7071067811865476,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_59,Rumba,2.0,0.7071067811865476,speech,0,0,ChaChaCha,5
+Albums-Latin_Jam2-09_82_hpss,Rumba,1.0,1.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_82,Rumba,1.0,1.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_104_hpss,Rumba,0.0,1.4142135623730951,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_104,Rumba,0.0,1.4142135623730951,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_58_hpss,Rumba,2.0,0.7071067811865476,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_58,Rumba,2.0,0.7071067811865476,music light,0,0,ChaChaCha,2
+Albums-Latin_Jam2-09_136_hpss,Rumba,0.0,2.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_136,Rumba,0.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_126_hpss,Rumba,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_126,Rumba,-1.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_141_hpss,Rumba,1.0,2.0,music standard,1,5,Tango,3
+Albums-Latin_Jam2-09_141,Rumba,1.0,2.0,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_13_hpss,Rumba,0.0,0.5,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_13,Rumba,0.0,0.5,film standard,0,7,Waltz,1
+Albums-Latin_Jam2-09_70_hpss,Rumba,-1.0,1.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_70,Rumba,-1.0,1.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_69_hpss,Rumba,-1.0,1.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_69,Rumba,-1.0,1.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_78_hpss,Rumba,1.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_78,Rumba,1.0,1.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_81_hpss,Rumba,1.0,1.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_81,Rumba,1.0,1.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_39_hpss,Rumba,-1.0,0.7071067811865476,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_39,Rumba,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Latin_Jam2-09_146_hpss,Rumba,2.0,2.0,film light,1,5,Tango,0
+Albums-Latin_Jam2-09_146,Rumba,2.0,2.0,film light,0,2,Quickstep,0
+Albums-Latin_Jam2-09_33_hpss,Rumba,-2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_33,Rumba,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Latin_Jam2-09_17_hpss,Rumba,0.0,0.5,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_17,Rumba,0.0,0.5,speech,0,7,Waltz,5
+Albums-Latin_Jam2-09_147_hpss,Rumba,2.0,2.0,music standard,1,5,Tango,3
+Albums-Latin_Jam2-09_147,Rumba,2.0,2.0,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_38_hpss,Rumba,-1.0,0.7071067811865476,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_38,Rumba,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Latin_Jam2-09_49_hpss,Rumba,1.0,0.7071067811865476,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_49,Rumba,1.0,0.7071067811865476,film standard,0,0,ChaChaCha,1
+Albums-Latin_Jam2-09_148_hpss,Rumba,2.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_148,Rumba,2.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Latin_Jam2-09_36_hpss,Rumba,-1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_36,Rumba,-1.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Latin_Jam2-09_62_hpss,Rumba,-2.0,1.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_62,Rumba,-2.0,1.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_114_hpss,Rumba,2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_114,Rumba,2.0,1.4142135623730951,radio,0,3,Rumba,4
+Albums-Latin_Jam2-09_107_hpss,Rumba,0.0,1.4142135623730951,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_107,Rumba,0.0,1.4142135623730951,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_119_hpss,Rumba,2.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Latin_Jam2-09_119,Rumba,2.0,1.4142135623730951,speech,0,3,Rumba,5
+Albums-Latin_Jam2-09_132_hpss,Rumba,0.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_132,Rumba,0.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_68_hpss,Rumba,-1.0,1.0,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_68,Rumba,-1.0,1.0,film light,0,6,VienneseWaltz,0
+Albums-Latin_Jam2-09_129_hpss,Rumba,-1.0,2.0,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_129,Rumba,-1.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Latin_Jam2-09_99_hpss,Rumba,-1.0,1.4142135623730951,music standard,1,7,Waltz,3
+Albums-Latin_Jam2-09_99,Rumba,-1.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Albums-Latin_Jam2-09_50_hpss,Rumba,1.0,0.7071067811865476,film light,1,7,Waltz,0
+Albums-Latin_Jam2-09_50,Rumba,1.0,0.7071067811865476,film light,0,0,ChaChaCha,0
+Albums-Latin_Jam2-09_77_hpss,Rumba,0.0,1.0,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_77,Rumba,0.0,1.0,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_43_hpss,Rumba,0.0,0.7071067811865476,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_43,Rumba,0.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_47_hpss,Rumba,0.0,0.7071067811865476,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_47,Rumba,0.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Albums-Latin_Jam2-09_42_hpss,Rumba,0.0,0.7071067811865476,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_42,Rumba,0.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Latin_Jam2-09_41_hpss,Rumba,-1.0,0.7071067811865476,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_41,Rumba,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Latin_Jam2-09_60_hpss,Rumba,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_60,Rumba,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_24_hpss,Rumba,2.0,0.5,radio,1,7,Waltz,4
+Albums-Latin_Jam2-09_24,Rumba,2.0,0.5,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_139_hpss,Rumba,1.0,2.0,film standard,1,5,Tango,1
+Albums-Latin_Jam2-09_139,Rumba,1.0,2.0,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_67_hpss,Rumba,-1.0,1.0,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_67,Rumba,-1.0,1.0,film standard,0,6,VienneseWaltz,1
+Albums-Latin_Jam2-09_95_hpss,Rumba,-2.0,1.4142135623730951,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_95,Rumba,-2.0,1.4142135623730951,speech,0,2,Quickstep,5
+Albums-Latin_Jam2-09_35_hpss,Rumba,-2.0,0.7071067811865476,speech,1,7,Waltz,5
+Albums-Latin_Jam2-09_35,Rumba,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Latin_Jam2-09_84_hpss,Rumba,2.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_84,Rumba,2.0,1.0,radio,0,6,VienneseWaltz,4
+Albums-Latin_Jam2-09_103_hpss,Rumba,0.0,1.4142135623730951,film standard,1,7,Waltz,1
+Albums-Latin_Jam2-09_103,Rumba,0.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Albums-Latin_Jam2-09_40_hpss,Rumba,-1.0,0.7071067811865476,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_40,Rumba,-1.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Latin_Jam2-09_124_hpss,Rumba,-2.0,2.0,music light,1,7,Waltz,2
+Albums-Latin_Jam2-09_124,Rumba,-2.0,2.0,music light,0,6,VienneseWaltz,2
+Media-104916_24_hpss,Quickstep,2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-104916_24,Quickstep,2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-104916_64_hpss,Quickstep,-2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-104916_64,Quickstep,-2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-104916_41_hpss,Quickstep,-1.0,0.7071067811865476,speech,1,5,Tango,5
+Media-104916_41,Quickstep,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-104916_73_hpss,Quickstep,0.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-104916_73,Quickstep,0.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-104916_46_hpss,Quickstep,0.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-104916_46,Quickstep,0.0,0.7071067811865476,music light,0,5,Tango,2
+Media-104916_54_hpss,Quickstep,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-104916_54,Quickstep,2.0,0.7071067811865476,radio,0,5,Tango,4
+Media-104916_104_hpss,Quickstep,0.0,1.4142135623730951,film light,1,5,Tango,0
+Media-104916_104,Quickstep,0.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-104916_105_hpss,Quickstep,0.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-104916_105,Quickstep,0.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-104916_67_hpss,Quickstep,-1.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-104916_67,Quickstep,-1.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-104916_59_hpss,Quickstep,2.0,0.7071067811865476,speech,1,5,Tango,5
+Media-104916_59,Quickstep,2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-104916_143_hpss,Quickstep,1.0,2.0,speech,1,5,Tango,5
+Media-104916_143,Quickstep,1.0,2.0,speech,0,2,Quickstep,5
+Media-104916_08_hpss,Quickstep,-1.0,0.5,film light,1,6,VienneseWaltz,0
+Media-104916_08,Quickstep,-1.0,0.5,film light,0,5,Tango,0
+Media-104916_99_hpss,Quickstep,-1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-104916_99,Quickstep,-1.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-104916_97_hpss,Quickstep,-1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-104916_97,Quickstep,-1.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-104916_07_hpss,Quickstep,-1.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-104916_07,Quickstep,-1.0,0.5,film standard,0,5,Tango,1
+Media-104916_61_hpss,Quickstep,-2.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-104916_61,Quickstep,-2.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-104916_86_hpss,Quickstep,2.0,1.0,film light,1,6,VienneseWaltz,0
+Media-104916_86,Quickstep,2.0,1.0,film light,0,6,VienneseWaltz,0
+Media-104916_15_hpss,Quickstep,0.0,0.5,music standard,1,7,Waltz,3
+Media-104916_15,Quickstep,0.0,0.5,music standard,0,5,Tango,3
+Media-104916_140_hpss,Quickstep,1.0,2.0,film light,1,5,Tango,0
+Media-104916_140,Quickstep,1.0,2.0,film light,0,2,Quickstep,0
+Media-104916_110_hpss,Quickstep,1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-104916_110,Quickstep,1.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-104916_122_hpss,Quickstep,-2.0,2.0,film light,1,5,Tango,0
+Media-104916_122,Quickstep,-2.0,2.0,film light,0,2,Quickstep,0
+Media-104916_94_hpss,Quickstep,-2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-104916_94,Quickstep,-2.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-104916_04_hpss,Quickstep,-2.0,0.5,music light,1,6,VienneseWaltz,2
+Media-104916_04,Quickstep,-2.0,0.5,music light,0,6,VienneseWaltz,2
+Media-104916_27_hpss,Quickstep,2.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-104916_27,Quickstep,2.0,0.5,music standard,0,6,VienneseWaltz,3
+Media-104916_87_hpss,Quickstep,2.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-104916_87,Quickstep,2.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-104916_76_hpss,Quickstep,0.0,1.0,music light,1,6,VienneseWaltz,2
+Media-104916_76,Quickstep,0.0,1.0,music light,0,6,VienneseWaltz,2
+Media-104916_137_hpss,Quickstep,0.0,2.0,speech,1,5,Tango,5
+Media-104916_137,Quickstep,0.0,2.0,speech,0,2,Quickstep,5
+Media-104916_38_hpss,Quickstep,-1.0,0.7071067811865476,film light,1,5,Tango,0
+Media-104916_38,Quickstep,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-104916_102_hpss,Quickstep,0.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-104916_102,Quickstep,0.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-104916_125_hpss,Quickstep,-2.0,2.0,speech,1,5,Tango,5
+Media-104916_125,Quickstep,-2.0,2.0,speech,0,2,Quickstep,5
+Media-104916_84_hpss,Quickstep,2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-104916_84,Quickstep,2.0,1.0,radio,0,1,Jive,4
+Media-104916_23_hpss,Quickstep,1.0,0.5,speech,1,6,VienneseWaltz,5
+Media-104916_23,Quickstep,1.0,0.5,speech,0,6,VienneseWaltz,5
+Media-104916_149_hpss,Quickstep,2.0,2.0,speech,1,5,Tango,5
+Media-104916_149,Quickstep,2.0,2.0,speech,0,2,Quickstep,5
+Media-104916_72_hpss,Quickstep,0.0,1.0,radio,1,6,VienneseWaltz,4
+Media-104916_72,Quickstep,0.0,1.0,radio,0,6,VienneseWaltz,4
+Media-104916_142_hpss,Quickstep,1.0,2.0,music light,1,5,Tango,2
+Media-104916_142,Quickstep,1.0,2.0,music light,0,2,Quickstep,2
+Media-104916_09_hpss,Quickstep,-1.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-104916_09,Quickstep,-1.0,0.5,music standard,0,5,Tango,3
+Media-104916_129_hpss,Quickstep,-1.0,2.0,music standard,1,5,Tango,3
+Media-104916_129,Quickstep,-1.0,2.0,music standard,0,2,Quickstep,3
+Media-104916_70_hpss,Quickstep,-1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-104916_70,Quickstep,-1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-104916_116_hpss,Quickstep,2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-104916_116,Quickstep,2.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-104916_55_hpss,Quickstep,2.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-104916_55,Quickstep,2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-104916_128_hpss,Quickstep,-1.0,2.0,film light,1,5,Tango,0
+Media-104916_128,Quickstep,-1.0,2.0,film light,0,2,Quickstep,0
+Media-104916_93_hpss,Quickstep,-2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-104916_93,Quickstep,-2.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-104916_139_hpss,Quickstep,1.0,2.0,film standard,1,5,Tango,1
+Media-104916_139,Quickstep,1.0,2.0,film standard,0,2,Quickstep,1
+Media-104916_50_hpss,Quickstep,1.0,0.7071067811865476,film light,1,5,Tango,0
+Media-104916_50,Quickstep,1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-104916_133_hpss,Quickstep,0.0,2.0,film standard,1,5,Tango,1
+Media-104916_133,Quickstep,0.0,2.0,film standard,0,2,Quickstep,1
+Media-104916_44_hpss,Quickstep,0.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-104916_44,Quickstep,0.0,0.7071067811865476,film light,0,5,Tango,0
+Media-104916_66_hpss,Quickstep,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-104916_66,Quickstep,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-104916_26_hpss,Quickstep,2.0,0.5,film light,1,6,VienneseWaltz,0
+Media-104916_26,Quickstep,2.0,0.5,film light,0,6,VienneseWaltz,0
+Media-104916_81_hpss,Quickstep,1.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-104916_81,Quickstep,1.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-104916_69_hpss,Quickstep,-1.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-104916_69,Quickstep,-1.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-104916_19_hpss,Quickstep,1.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-104916_19,Quickstep,1.0,0.5,film standard,0,6,VienneseWaltz,1
+Media-104916_131_hpss,Quickstep,-1.0,2.0,speech,1,5,Tango,5
+Media-104916_131,Quickstep,-1.0,2.0,speech,0,2,Quickstep,5
+Media-104916_130_hpss,Quickstep,-1.0,2.0,music light,1,5,Tango,2
+Media-104916_130,Quickstep,-1.0,2.0,music light,0,2,Quickstep,2
+Media-104916_98_hpss,Quickstep,-1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-104916_98,Quickstep,-1.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-104916_32_hpss,Quickstep,-2.0,0.7071067811865476,film light,1,5,Tango,0
+Media-104916_32,Quickstep,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-104916_45_hpss,Quickstep,0.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-104916_45,Quickstep,0.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-104916_118_hpss,Quickstep,2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-104916_118,Quickstep,2.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-104916_16_hpss,Quickstep,0.0,0.5,music light,1,6,VienneseWaltz,2
+Media-104916_16,Quickstep,0.0,0.5,music light,0,5,Tango,2
+Media-104916_17_hpss,Quickstep,0.0,0.5,speech,1,7,Waltz,5
+Media-104916_17,Quickstep,0.0,0.5,speech,0,5,Tango,5
+Media-104916_121_hpss,Quickstep,-2.0,2.0,film standard,1,5,Tango,1
+Media-104916_121,Quickstep,-2.0,2.0,film standard,0,2,Quickstep,1
+Media-104916_35_hpss,Quickstep,-2.0,0.7071067811865476,speech,1,5,Tango,5
+Media-104916_35,Quickstep,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-104916_106_hpss,Quickstep,0.0,1.4142135623730951,music light,1,5,Tango,2
+Media-104916_106,Quickstep,0.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-104916_126_hpss,Quickstep,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-104916_126,Quickstep,-1.0,2.0,radio,0,2,Quickstep,4
+Media-104916_10_hpss,Quickstep,-1.0,0.5,music light,1,6,VienneseWaltz,2
+Media-104916_10,Quickstep,-1.0,0.5,music light,0,5,Tango,2
+Media-104916_62_hpss,Quickstep,-2.0,1.0,film light,1,6,VienneseWaltz,0
+Media-104916_62,Quickstep,-2.0,1.0,film light,0,6,VienneseWaltz,0
+Media-104916_145_hpss,Quickstep,2.0,2.0,film standard,1,5,Tango,1
+Media-104916_145,Quickstep,2.0,2.0,film standard,0,2,Quickstep,1
+Media-104916_52_hpss,Quickstep,1.0,0.7071067811865476,music light,1,5,Tango,2
+Media-104916_52,Quickstep,1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-104916_13_hpss,Quickstep,0.0,0.5,film standard,1,7,Waltz,1
+Media-104916_13,Quickstep,0.0,0.5,film standard,0,5,Tango,1
+Media-104916_77_hpss,Quickstep,0.0,1.0,speech,1,6,VienneseWaltz,5
+Media-104916_77,Quickstep,0.0,1.0,speech,0,6,VienneseWaltz,5
+Media-104916_78_hpss,Quickstep,1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-104916_78,Quickstep,1.0,1.0,radio,0,1,Jive,4
+Media-104916_117_hpss,Quickstep,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-104916_117,Quickstep,2.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-104916_00_hpss,Quickstep,-2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-104916_00,Quickstep,-2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-104916_48_hpss,Quickstep,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-104916_48,Quickstep,1.0,0.7071067811865476,radio,0,5,Tango,4
+Media-104916_95_hpss,Quickstep,-2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-104916_95,Quickstep,-2.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-104916_34_hpss,Quickstep,-2.0,0.7071067811865476,music light,1,5,Tango,2
+Media-104916_34,Quickstep,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-104916_120_hpss,Quickstep,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-104916_120,Quickstep,-2.0,2.0,radio,0,2,Quickstep,4
+Media-104916_75_hpss,Quickstep,0.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-104916_75,Quickstep,0.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-104916_132_hpss,Quickstep,0.0,2.0,radio,1,6,VienneseWaltz,4
+Media-104916_132,Quickstep,0.0,2.0,radio,0,2,Quickstep,4
+Media-104916_68_hpss,Quickstep,-1.0,1.0,film light,1,6,VienneseWaltz,0
+Media-104916_68,Quickstep,-1.0,1.0,film light,0,6,VienneseWaltz,0
+Media-104916_43_hpss,Quickstep,0.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-104916_43,Quickstep,0.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-104916_21_hpss,Quickstep,1.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-104916_21,Quickstep,1.0,0.5,music standard,0,6,VienneseWaltz,3
+Media-104916_79_hpss,Quickstep,1.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-104916_79,Quickstep,1.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-104916_65_hpss,Quickstep,-2.0,1.0,speech,1,6,VienneseWaltz,5
+Media-104916_65,Quickstep,-2.0,1.0,speech,0,6,VienneseWaltz,5
+Media-104916_123_hpss,Quickstep,-2.0,2.0,music standard,1,5,Tango,3
+Media-104916_123,Quickstep,-2.0,2.0,music standard,0,2,Quickstep,3
+Media-104916_03_hpss,Quickstep,-2.0,0.5,music standard,1,6,VienneseWaltz,3
+Media-104916_03,Quickstep,-2.0,0.5,music standard,0,6,VienneseWaltz,3
+Media-104916_111_hpss,Quickstep,1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-104916_111,Quickstep,1.0,1.4142135623730951,music standard,0,2,Quickstep,3
+Media-104916_107_hpss,Quickstep,0.0,1.4142135623730951,speech,1,5,Tango,5
+Media-104916_107,Quickstep,0.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-104916_83_hpss,Quickstep,1.0,1.0,speech,1,6,VienneseWaltz,5
+Media-104916_83,Quickstep,1.0,1.0,speech,0,6,VienneseWaltz,5
+Media-104916_05_hpss,Quickstep,-2.0,0.5,speech,1,6,VienneseWaltz,5
+Media-104916_05,Quickstep,-2.0,0.5,speech,0,6,VienneseWaltz,5
+Media-104916_108_hpss,Quickstep,1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-104916_108,Quickstep,1.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-104916_114_hpss,Quickstep,2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-104916_114,Quickstep,2.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-104916_40_hpss,Quickstep,-1.0,0.7071067811865476,music light,1,5,Tango,2
+Media-104916_40,Quickstep,-1.0,0.7071067811865476,music light,0,5,Tango,2
+Media-104916_30_hpss,Quickstep,-2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-104916_30,Quickstep,-2.0,0.7071067811865476,radio,0,5,Tango,4
+Media-104916_141_hpss,Quickstep,1.0,2.0,music standard,1,5,Tango,3
+Media-104916_141,Quickstep,1.0,2.0,music standard,0,2,Quickstep,3
+Media-104916_63_hpss,Quickstep,-2.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-104916_63,Quickstep,-2.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-104916_01_hpss,Quickstep,-2.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-104916_01,Quickstep,-2.0,0.5,film standard,0,6,VienneseWaltz,1
+Media-104916_28_hpss,Quickstep,2.0,0.5,music light,1,6,VienneseWaltz,2
+Media-104916_28,Quickstep,2.0,0.5,music light,0,6,VienneseWaltz,2
+Media-104916_31_hpss,Quickstep,-2.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-104916_31,Quickstep,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-104916_146_hpss,Quickstep,2.0,2.0,film light,1,5,Tango,0
+Media-104916_146,Quickstep,2.0,2.0,film light,0,2,Quickstep,0
+Media-104916_134_hpss,Quickstep,0.0,2.0,film light,1,5,Tango,0
+Media-104916_134,Quickstep,0.0,2.0,film light,0,2,Quickstep,0
+Media-104916_39_hpss,Quickstep,-1.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-104916_39,Quickstep,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-104916_51_hpss,Quickstep,1.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-104916_51,Quickstep,1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-104916_148_hpss,Quickstep,2.0,2.0,music light,1,5,Tango,2
+Media-104916_148,Quickstep,2.0,2.0,music light,0,2,Quickstep,2
+Media-104916_14_hpss,Quickstep,0.0,0.5,film light,1,7,Waltz,0
+Media-104916_14,Quickstep,0.0,0.5,film light,0,5,Tango,0
+Media-104916_80_hpss,Quickstep,1.0,1.0,film light,1,6,VienneseWaltz,0
+Media-104916_80,Quickstep,1.0,1.0,film light,0,6,VienneseWaltz,0
+Media-104916_85_hpss,Quickstep,2.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-104916_85,Quickstep,2.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-104916_47_hpss,Quickstep,0.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-104916_47,Quickstep,0.0,0.7071067811865476,speech,0,5,Tango,5
+Media-104916_49_hpss,Quickstep,1.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-104916_49,Quickstep,1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-104916_91_hpss,Quickstep,-2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-104916_91,Quickstep,-2.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-104916_101_hpss,Quickstep,-1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-104916_101,Quickstep,-1.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-104916_144_hpss,Quickstep,2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-104916_144,Quickstep,2.0,2.0,radio,0,2,Quickstep,4
+Media-104916_18_hpss,Quickstep,1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-104916_18,Quickstep,1.0,0.5,radio,0,6,VienneseWaltz,4
+Media-104916_06_hpss,Quickstep,-1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-104916_06,Quickstep,-1.0,0.5,radio,0,5,Tango,4
+Media-104916_33_hpss,Quickstep,-2.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-104916_33,Quickstep,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-104916_74_hpss,Quickstep,0.0,1.0,film light,1,6,VienneseWaltz,0
+Media-104916_74,Quickstep,0.0,1.0,film light,0,6,VienneseWaltz,0
+Media-104916_20_hpss,Quickstep,1.0,0.5,film light,1,6,VienneseWaltz,0
+Media-104916_20,Quickstep,1.0,0.5,film light,0,6,VienneseWaltz,0
+Media-104916_88_hpss,Quickstep,2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-104916_88,Quickstep,2.0,1.0,music light,0,1,Jive,2
+Media-104916_138_hpss,Quickstep,1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-104916_138,Quickstep,1.0,2.0,radio,0,2,Quickstep,4
+Media-104916_11_hpss,Quickstep,-1.0,0.5,speech,1,7,Waltz,5
+Media-104916_11,Quickstep,-1.0,0.5,speech,0,5,Tango,5
+Media-104916_82_hpss,Quickstep,1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-104916_82,Quickstep,1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-104916_60_hpss,Quickstep,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-104916_60,Quickstep,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-104916_109_hpss,Quickstep,1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-104916_109,Quickstep,1.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-104916_113_hpss,Quickstep,1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-104916_113,Quickstep,1.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-104916_57_hpss,Quickstep,2.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-104916_57,Quickstep,2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-104916_115_hpss,Quickstep,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-104916_115,Quickstep,2.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-104916_56_hpss,Quickstep,2.0,0.7071067811865476,film light,1,5,Tango,0
+Media-104916_56,Quickstep,2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-104916_96_hpss,Quickstep,-1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-104916_96,Quickstep,-1.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-104916_136_hpss,Quickstep,0.0,2.0,music light,1,5,Tango,2
+Media-104916_136,Quickstep,0.0,2.0,music light,0,2,Quickstep,2
+Media-104916_90_hpss,Quickstep,-2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-104916_90,Quickstep,-2.0,1.4142135623730951,radio,0,2,Quickstep,4
+Media-104916_22_hpss,Quickstep,1.0,0.5,music light,1,6,VienneseWaltz,2
+Media-104916_22,Quickstep,1.0,0.5,music light,0,6,VienneseWaltz,2
+Media-104916_92_hpss,Quickstep,-2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-104916_92,Quickstep,-2.0,1.4142135623730951,film light,0,2,Quickstep,0
+Media-104916_29_hpss,Quickstep,2.0,0.5,speech,1,6,VienneseWaltz,5
+Media-104916_29,Quickstep,2.0,0.5,speech,0,6,VienneseWaltz,5
+Media-104916_119_hpss,Quickstep,2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-104916_119,Quickstep,2.0,1.4142135623730951,speech,0,2,Quickstep,5
+Media-104916_89_hpss,Quickstep,2.0,1.0,speech,1,6,VienneseWaltz,5
+Media-104916_89,Quickstep,2.0,1.0,speech,0,6,VienneseWaltz,5
+Media-104916_36_hpss,Quickstep,-1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-104916_36,Quickstep,-1.0,0.7071067811865476,radio,0,5,Tango,4
+Media-104916_135_hpss,Quickstep,0.0,2.0,music standard,1,5,Tango,3
+Media-104916_135,Quickstep,0.0,2.0,music standard,0,2,Quickstep,3
+Media-104916_02_hpss,Quickstep,-2.0,0.5,film light,1,6,VienneseWaltz,0
+Media-104916_02,Quickstep,-2.0,0.5,film light,0,6,VienneseWaltz,0
+Media-104916_103_hpss,Quickstep,0.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-104916_103,Quickstep,0.0,1.4142135623730951,film standard,0,2,Quickstep,1
+Media-104916_53_hpss,Quickstep,1.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-104916_53,Quickstep,1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-104916_124_hpss,Quickstep,-2.0,2.0,music light,1,5,Tango,2
+Media-104916_124,Quickstep,-2.0,2.0,music light,0,2,Quickstep,2
+Media-104916_71_hpss,Quickstep,-1.0,1.0,speech,1,6,VienneseWaltz,5
+Media-104916_71,Quickstep,-1.0,1.0,speech,0,6,VienneseWaltz,5
+Media-104916_42_hpss,Quickstep,0.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-104916_42,Quickstep,0.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-104916_100_hpss,Quickstep,-1.0,1.4142135623730951,music light,1,5,Tango,2
+Media-104916_100,Quickstep,-1.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-104916_127_hpss,Quickstep,-1.0,2.0,film standard,1,5,Tango,1
+Media-104916_127,Quickstep,-1.0,2.0,film standard,0,2,Quickstep,1
+Media-104916_25_hpss,Quickstep,2.0,0.5,film standard,1,6,VienneseWaltz,1
+Media-104916_25,Quickstep,2.0,0.5,film standard,0,6,VienneseWaltz,1
+Media-104916_37_hpss,Quickstep,-1.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-104916_37,Quickstep,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-104916_12_hpss,Quickstep,0.0,0.5,radio,1,6,VienneseWaltz,4
+Media-104916_12,Quickstep,0.0,0.5,radio,0,5,Tango,4
+Media-104916_112_hpss,Quickstep,1.0,1.4142135623730951,music light,1,5,Tango,2
+Media-104916_112,Quickstep,1.0,1.4142135623730951,music light,0,2,Quickstep,2
+Media-104916_147_hpss,Quickstep,2.0,2.0,music standard,1,5,Tango,3
+Media-104916_147,Quickstep,2.0,2.0,music standard,0,2,Quickstep,3
+Media-104916_58_hpss,Quickstep,2.0,0.7071067811865476,music light,1,5,Tango,2
+Media-104916_58,Quickstep,2.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_122_hpss,Tango,-2.0,2.0,film light,1,6,VienneseWaltz,0
+Albums-Chrisanne3-05_122,Tango,-2.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Chrisanne3-05_90_hpss,Tango,-2.0,1.4142135623730951,radio,1,5,Tango,4
+Albums-Chrisanne3-05_90,Tango,-2.0,1.4142135623730951,radio,0,5,Tango,4
+Albums-Chrisanne3-05_94_hpss,Tango,-2.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Chrisanne3-05_94,Tango,-2.0,1.4142135623730951,music light,0,5,Tango,2
+Albums-Chrisanne3-05_83_hpss,Tango,1.0,1.0,speech,1,5,Tango,5
+Albums-Chrisanne3-05_83,Tango,1.0,1.0,speech,0,2,Quickstep,5
+Albums-Chrisanne3-05_88_hpss,Tango,2.0,1.0,music light,1,5,Tango,2
+Albums-Chrisanne3-05_88,Tango,2.0,1.0,music light,0,2,Quickstep,2
+Albums-Chrisanne3-05_62_hpss,Tango,-2.0,1.0,film light,1,5,Tango,0
+Albums-Chrisanne3-05_62,Tango,-2.0,1.0,film light,0,2,Quickstep,0
+Albums-Chrisanne3-05_22_hpss,Tango,1.0,0.5,music light,1,5,Tango,2
+Albums-Chrisanne3-05_22,Tango,1.0,0.5,music light,0,5,Tango,2
+Albums-Chrisanne3-05_73_hpss,Tango,0.0,1.0,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_73,Tango,0.0,1.0,film standard,0,2,Quickstep,1
+Albums-Chrisanne3-05_145_hpss,Tango,2.0,2.0,film standard,1,6,VienneseWaltz,1
+Albums-Chrisanne3-05_145,Tango,2.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Chrisanne3-05_95_hpss,Tango,-2.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Chrisanne3-05_95,Tango,-2.0,1.4142135623730951,speech,0,5,Tango,5
+Albums-Chrisanne3-05_101_hpss,Tango,-1.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Chrisanne3-05_101,Tango,-1.0,1.4142135623730951,speech,0,5,Tango,5
+Albums-Chrisanne3-05_16_hpss,Tango,0.0,0.5,music light,1,5,Tango,2
+Albums-Chrisanne3-05_16,Tango,0.0,0.5,music light,0,5,Tango,2
+Albums-Chrisanne3-05_134_hpss,Tango,0.0,2.0,film light,1,6,VienneseWaltz,0
+Albums-Chrisanne3-05_134,Tango,0.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Chrisanne3-05_113_hpss,Tango,1.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Chrisanne3-05_113,Tango,1.0,1.4142135623730951,speech,0,5,Tango,5
+Albums-Chrisanne3-05_36_hpss,Tango,-1.0,0.7071067811865476,radio,1,5,Tango,4
+Albums-Chrisanne3-05_36,Tango,-1.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Chrisanne3-05_46_hpss,Tango,0.0,0.7071067811865476,music light,1,5,Tango,2
+Albums-Chrisanne3-05_46,Tango,0.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_48_hpss,Tango,1.0,0.7071067811865476,radio,1,5,Tango,4
+Albums-Chrisanne3-05_48,Tango,1.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Chrisanne3-05_58_hpss,Tango,2.0,0.7071067811865476,music light,1,5,Tango,2
+Albums-Chrisanne3-05_58,Tango,2.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_139_hpss,Tango,1.0,2.0,film standard,1,6,VienneseWaltz,1
+Albums-Chrisanne3-05_139,Tango,1.0,2.0,film standard,0,4,Samba,1
+Albums-Chrisanne3-05_147_hpss,Tango,2.0,2.0,music standard,1,6,VienneseWaltz,3
+Albums-Chrisanne3-05_147,Tango,2.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Chrisanne3-05_149_hpss,Tango,2.0,2.0,speech,1,6,VienneseWaltz,5
+Albums-Chrisanne3-05_149,Tango,2.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Chrisanne3-05_98_hpss,Tango,-1.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Chrisanne3-05_98,Tango,-1.0,1.4142135623730951,film light,0,5,Tango,0
+Albums-Chrisanne3-05_112_hpss,Tango,1.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Chrisanne3-05_112,Tango,1.0,1.4142135623730951,music light,0,5,Tango,2
+Albums-Chrisanne3-05_107_hpss,Tango,0.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Chrisanne3-05_107,Tango,0.0,1.4142135623730951,speech,0,5,Tango,5
+Albums-Chrisanne3-05_117_hpss,Tango,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_117,Tango,2.0,1.4142135623730951,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_136_hpss,Tango,0.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Chrisanne3-05_136,Tango,0.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Chrisanne3-05_54_hpss,Tango,2.0,0.7071067811865476,radio,1,5,Tango,4
+Albums-Chrisanne3-05_54,Tango,2.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Chrisanne3-05_69_hpss,Tango,-1.0,1.0,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_69,Tango,-1.0,1.0,music standard,0,2,Quickstep,3
+Albums-Chrisanne3-05_03_hpss,Tango,-2.0,0.5,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_03,Tango,-2.0,0.5,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_49_hpss,Tango,1.0,0.7071067811865476,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_49,Tango,1.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_52_hpss,Tango,1.0,0.7071067811865476,music light,1,5,Tango,2
+Albums-Chrisanne3-05_52,Tango,1.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_23_hpss,Tango,1.0,0.5,speech,1,5,Tango,5
+Albums-Chrisanne3-05_23,Tango,1.0,0.5,speech,0,5,Tango,5
+Albums-Chrisanne3-05_70_hpss,Tango,-1.0,1.0,music light,1,5,Tango,2
+Albums-Chrisanne3-05_70,Tango,-1.0,1.0,music light,0,2,Quickstep,2
+Albums-Chrisanne3-05_141_hpss,Tango,1.0,2.0,music standard,1,6,VienneseWaltz,3
+Albums-Chrisanne3-05_141,Tango,1.0,2.0,music standard,0,4,Samba,3
+Albums-Chrisanne3-05_33_hpss,Tango,-2.0,0.7071067811865476,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_33,Tango,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_38_hpss,Tango,-1.0,0.7071067811865476,film light,1,5,Tango,0
+Albums-Chrisanne3-05_38,Tango,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Chrisanne3-05_27_hpss,Tango,2.0,0.5,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_27,Tango,2.0,0.5,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_123_hpss,Tango,-2.0,2.0,music standard,1,6,VienneseWaltz,3
+Albums-Chrisanne3-05_123,Tango,-2.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Chrisanne3-05_51_hpss,Tango,1.0,0.7071067811865476,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_51,Tango,1.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_84_hpss,Tango,2.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_84,Tango,2.0,1.0,radio,0,2,Quickstep,4
+Albums-Chrisanne3-05_102_hpss,Tango,0.0,1.4142135623730951,radio,1,5,Tango,4
+Albums-Chrisanne3-05_102,Tango,0.0,1.4142135623730951,radio,0,5,Tango,4
+Albums-Chrisanne3-05_26_hpss,Tango,2.0,0.5,film light,1,5,Tango,0
+Albums-Chrisanne3-05_26,Tango,2.0,0.5,film light,0,5,Tango,0
+Albums-Chrisanne3-05_119_hpss,Tango,2.0,1.4142135623730951,speech,1,5,Tango,5
+Albums-Chrisanne3-05_119,Tango,2.0,1.4142135623730951,speech,0,5,Tango,5
+Albums-Chrisanne3-05_14_hpss,Tango,0.0,0.5,film light,1,5,Tango,0
+Albums-Chrisanne3-05_14,Tango,0.0,0.5,film light,0,5,Tango,0
+Albums-Chrisanne3-05_41_hpss,Tango,-1.0,0.7071067811865476,speech,1,5,Tango,5
+Albums-Chrisanne3-05_41,Tango,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Chrisanne3-05_65_hpss,Tango,-2.0,1.0,speech,1,5,Tango,5
+Albums-Chrisanne3-05_65,Tango,-2.0,1.0,speech,0,2,Quickstep,5
+Albums-Chrisanne3-05_124_hpss,Tango,-2.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Chrisanne3-05_124,Tango,-2.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Chrisanne3-05_64_hpss,Tango,-2.0,1.0,music light,1,5,Tango,2
+Albums-Chrisanne3-05_64,Tango,-2.0,1.0,music light,0,2,Quickstep,2
+Albums-Chrisanne3-05_43_hpss,Tango,0.0,0.7071067811865476,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_43,Tango,0.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_32_hpss,Tango,-2.0,0.7071067811865476,film light,1,5,Tango,0
+Albums-Chrisanne3-05_32,Tango,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Chrisanne3-05_08_hpss,Tango,-1.0,0.5,film light,1,7,Waltz,0
+Albums-Chrisanne3-05_08,Tango,-1.0,0.5,film light,0,5,Tango,0
+Albums-Chrisanne3-05_00_hpss,Tango,-2.0,0.5,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_00,Tango,-2.0,0.5,radio,0,5,Tango,4
+Albums-Chrisanne3-05_146_hpss,Tango,2.0,2.0,film light,1,6,VienneseWaltz,0
+Albums-Chrisanne3-05_146,Tango,2.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Chrisanne3-05_20_hpss,Tango,1.0,0.5,film light,1,5,Tango,0
+Albums-Chrisanne3-05_20,Tango,1.0,0.5,film light,0,5,Tango,0
+Albums-Chrisanne3-05_116_hpss,Tango,2.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Chrisanne3-05_116,Tango,2.0,1.4142135623730951,film light,0,5,Tango,0
+Albums-Chrisanne3-05_07_hpss,Tango,-1.0,0.5,film standard,1,7,Waltz,1
+Albums-Chrisanne3-05_07,Tango,-1.0,0.5,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_89_hpss,Tango,2.0,1.0,speech,1,5,Tango,5
+Albums-Chrisanne3-05_89,Tango,2.0,1.0,speech,0,2,Quickstep,5
+Albums-Chrisanne3-05_82_hpss,Tango,1.0,1.0,music light,1,5,Tango,2
+Albums-Chrisanne3-05_82,Tango,1.0,1.0,music light,0,2,Quickstep,2
+Albums-Chrisanne3-05_109_hpss,Tango,1.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_109,Tango,1.0,1.4142135623730951,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_50_hpss,Tango,1.0,0.7071067811865476,film light,1,5,Tango,0
+Albums-Chrisanne3-05_50,Tango,1.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Chrisanne3-05_55_hpss,Tango,2.0,0.7071067811865476,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_55,Tango,2.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_148_hpss,Tango,2.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Chrisanne3-05_148,Tango,2.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Chrisanne3-05_60_hpss,Tango,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_60,Tango,-2.0,1.0,radio,0,2,Quickstep,4
+Albums-Chrisanne3-05_35_hpss,Tango,-2.0,0.7071067811865476,speech,1,5,Tango,5
+Albums-Chrisanne3-05_35,Tango,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Chrisanne3-05_100_hpss,Tango,-1.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Chrisanne3-05_100,Tango,-1.0,1.4142135623730951,music light,0,5,Tango,2
+Albums-Chrisanne3-05_28_hpss,Tango,2.0,0.5,music light,1,5,Tango,2
+Albums-Chrisanne3-05_28,Tango,2.0,0.5,music light,0,5,Tango,2
+Albums-Chrisanne3-05_137_hpss,Tango,0.0,2.0,speech,1,6,VienneseWaltz,5
+Albums-Chrisanne3-05_137,Tango,0.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Chrisanne3-05_68_hpss,Tango,-1.0,1.0,film light,1,5,Tango,0
+Albums-Chrisanne3-05_68,Tango,-1.0,1.0,film light,0,2,Quickstep,0
+Albums-Chrisanne3-05_110_hpss,Tango,1.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Chrisanne3-05_110,Tango,1.0,1.4142135623730951,film light,0,5,Tango,0
+Albums-Chrisanne3-05_121_hpss,Tango,-2.0,2.0,film standard,1,6,VienneseWaltz,1
+Albums-Chrisanne3-05_121,Tango,-2.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Chrisanne3-05_91_hpss,Tango,-2.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_91,Tango,-2.0,1.4142135623730951,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_67_hpss,Tango,-1.0,1.0,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_67,Tango,-1.0,1.0,film standard,0,2,Quickstep,1
+Albums-Chrisanne3-05_18_hpss,Tango,1.0,0.5,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_18,Tango,1.0,0.5,radio,0,5,Tango,4
+Albums-Chrisanne3-05_17_hpss,Tango,0.0,0.5,speech,1,5,Tango,5
+Albums-Chrisanne3-05_17,Tango,0.0,0.5,speech,0,5,Tango,5
+Albums-Chrisanne3-05_135_hpss,Tango,0.0,2.0,music standard,1,6,VienneseWaltz,3
+Albums-Chrisanne3-05_135,Tango,0.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Chrisanne3-05_76_hpss,Tango,0.0,1.0,music light,1,5,Tango,2
+Albums-Chrisanne3-05_76,Tango,0.0,1.0,music light,0,2,Quickstep,2
+Albums-Chrisanne3-05_140_hpss,Tango,1.0,2.0,film light,1,6,VienneseWaltz,0
+Albums-Chrisanne3-05_140,Tango,1.0,2.0,film light,0,4,Samba,0
+Albums-Chrisanne3-05_57_hpss,Tango,2.0,0.7071067811865476,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_57,Tango,2.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_40_hpss,Tango,-1.0,0.7071067811865476,music light,1,5,Tango,2
+Albums-Chrisanne3-05_40,Tango,-1.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_30_hpss,Tango,-2.0,0.7071067811865476,radio,1,5,Tango,4
+Albums-Chrisanne3-05_30,Tango,-2.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Chrisanne3-05_01_hpss,Tango,-2.0,0.5,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_01,Tango,-2.0,0.5,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_06_hpss,Tango,-1.0,0.5,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_06,Tango,-1.0,0.5,radio,0,5,Tango,4
+Albums-Chrisanne3-05_144_hpss,Tango,2.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_144,Tango,2.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Chrisanne3-05_99_hpss,Tango,-1.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_99,Tango,-1.0,1.4142135623730951,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_81_hpss,Tango,1.0,1.0,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_81,Tango,1.0,1.0,music standard,0,2,Quickstep,3
+Albums-Chrisanne3-05_53_hpss,Tango,1.0,0.7071067811865476,speech,1,5,Tango,5
+Albums-Chrisanne3-05_53,Tango,1.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Chrisanne3-05_63_hpss,Tango,-2.0,1.0,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_63,Tango,-2.0,1.0,music standard,0,2,Quickstep,3
+Albums-Chrisanne3-05_80_hpss,Tango,1.0,1.0,film light,1,5,Tango,0
+Albums-Chrisanne3-05_80,Tango,1.0,1.0,film light,0,2,Quickstep,0
+Albums-Chrisanne3-05_92_hpss,Tango,-2.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Chrisanne3-05_92,Tango,-2.0,1.4142135623730951,film light,0,5,Tango,0
+Albums-Chrisanne3-05_87_hpss,Tango,2.0,1.0,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_87,Tango,2.0,1.0,music standard,0,2,Quickstep,3
+Albums-Chrisanne3-05_44_hpss,Tango,0.0,0.7071067811865476,film light,1,5,Tango,0
+Albums-Chrisanne3-05_44,Tango,0.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Chrisanne3-05_72_hpss,Tango,0.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_72,Tango,0.0,1.0,radio,0,2,Quickstep,4
+Albums-Chrisanne3-05_120_hpss,Tango,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_120,Tango,-2.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Chrisanne3-05_138_hpss,Tango,1.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_138,Tango,1.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Chrisanne3-05_59_hpss,Tango,2.0,0.7071067811865476,speech,1,5,Tango,5
+Albums-Chrisanne3-05_59,Tango,2.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Chrisanne3-05_29_hpss,Tango,2.0,0.5,speech,1,5,Tango,5
+Albums-Chrisanne3-05_29,Tango,2.0,0.5,speech,0,5,Tango,5
+Albums-Chrisanne3-05_25_hpss,Tango,2.0,0.5,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_25,Tango,2.0,0.5,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_125_hpss,Tango,-2.0,2.0,speech,1,6,VienneseWaltz,5
+Albums-Chrisanne3-05_125,Tango,-2.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Chrisanne3-05_127_hpss,Tango,-1.0,2.0,film standard,1,6,VienneseWaltz,1
+Albums-Chrisanne3-05_127,Tango,-1.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Chrisanne3-05_93_hpss,Tango,-2.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_93,Tango,-2.0,1.4142135623730951,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_132_hpss,Tango,0.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_132,Tango,0.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Chrisanne3-05_108_hpss,Tango,1.0,1.4142135623730951,radio,1,5,Tango,4
+Albums-Chrisanne3-05_108,Tango,1.0,1.4142135623730951,radio,0,5,Tango,4
+Albums-Chrisanne3-05_142_hpss,Tango,1.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Chrisanne3-05_142,Tango,1.0,2.0,music light,0,4,Samba,2
+Albums-Chrisanne3-05_45_hpss,Tango,0.0,0.7071067811865476,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_45,Tango,0.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_77_hpss,Tango,0.0,1.0,speech,1,5,Tango,5
+Albums-Chrisanne3-05_77,Tango,0.0,1.0,speech,0,2,Quickstep,5
+Albums-Chrisanne3-05_24_hpss,Tango,2.0,0.5,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_24,Tango,2.0,0.5,radio,0,5,Tango,4
+Albums-Chrisanne3-05_74_hpss,Tango,0.0,1.0,film light,1,5,Tango,0
+Albums-Chrisanne3-05_74,Tango,0.0,1.0,film light,0,2,Quickstep,0
+Albums-Chrisanne3-05_13_hpss,Tango,0.0,0.5,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_13,Tango,0.0,0.5,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_66_hpss,Tango,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_66,Tango,-1.0,1.0,radio,0,2,Quickstep,4
+Albums-Chrisanne3-05_12_hpss,Tango,0.0,0.5,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_12,Tango,0.0,0.5,radio,0,5,Tango,4
+Albums-Chrisanne3-05_78_hpss,Tango,1.0,1.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_78,Tango,1.0,1.0,radio,0,2,Quickstep,4
+Albums-Chrisanne3-05_131_hpss,Tango,-1.0,2.0,speech,1,6,VienneseWaltz,5
+Albums-Chrisanne3-05_131,Tango,-1.0,2.0,speech,0,6,VienneseWaltz,5
+Albums-Chrisanne3-05_115_hpss,Tango,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_115,Tango,2.0,1.4142135623730951,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_75_hpss,Tango,0.0,1.0,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_75,Tango,0.0,1.0,music standard,0,2,Quickstep,3
+Albums-Chrisanne3-05_37_hpss,Tango,-1.0,0.7071067811865476,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_37,Tango,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_111_hpss,Tango,1.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_111,Tango,1.0,1.4142135623730951,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_104_hpss,Tango,0.0,1.4142135623730951,film light,1,5,Tango,0
+Albums-Chrisanne3-05_104,Tango,0.0,1.4142135623730951,film light,0,5,Tango,0
+Albums-Chrisanne3-05_128_hpss,Tango,-1.0,2.0,film light,1,6,VienneseWaltz,0
+Albums-Chrisanne3-05_128,Tango,-1.0,2.0,film light,0,6,VienneseWaltz,0
+Albums-Chrisanne3-05_79_hpss,Tango,1.0,1.0,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_79,Tango,1.0,1.0,film standard,0,2,Quickstep,1
+Albums-Chrisanne3-05_31_hpss,Tango,-2.0,0.7071067811865476,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_31,Tango,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_86_hpss,Tango,2.0,1.0,film light,1,5,Tango,0
+Albums-Chrisanne3-05_86,Tango,2.0,1.0,film light,0,2,Quickstep,0
+Albums-Chrisanne3-05_47_hpss,Tango,0.0,0.7071067811865476,speech,1,5,Tango,5
+Albums-Chrisanne3-05_47,Tango,0.0,0.7071067811865476,speech,0,5,Tango,5
+Albums-Chrisanne3-05_96_hpss,Tango,-1.0,1.4142135623730951,radio,1,5,Tango,4
+Albums-Chrisanne3-05_96,Tango,-1.0,1.4142135623730951,radio,0,5,Tango,4
+Albums-Chrisanne3-05_103_hpss,Tango,0.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_103,Tango,0.0,1.4142135623730951,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_02_hpss,Tango,-2.0,0.5,film light,1,5,Tango,0
+Albums-Chrisanne3-05_02,Tango,-2.0,0.5,film light,0,5,Tango,0
+Albums-Chrisanne3-05_71_hpss,Tango,-1.0,1.0,speech,1,5,Tango,5
+Albums-Chrisanne3-05_71,Tango,-1.0,1.0,speech,0,2,Quickstep,5
+Albums-Chrisanne3-05_21_hpss,Tango,1.0,0.5,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_21,Tango,1.0,0.5,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_114_hpss,Tango,2.0,1.4142135623730951,radio,1,5,Tango,4
+Albums-Chrisanne3-05_114,Tango,2.0,1.4142135623730951,radio,0,5,Tango,4
+Albums-Chrisanne3-05_15_hpss,Tango,0.0,0.5,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_15,Tango,0.0,0.5,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_129_hpss,Tango,-1.0,2.0,music standard,1,6,VienneseWaltz,3
+Albums-Chrisanne3-05_129,Tango,-1.0,2.0,music standard,0,6,VienneseWaltz,3
+Albums-Chrisanne3-05_11_hpss,Tango,-1.0,0.5,speech,1,7,Waltz,5
+Albums-Chrisanne3-05_11,Tango,-1.0,0.5,speech,0,5,Tango,5
+Albums-Chrisanne3-05_56_hpss,Tango,2.0,0.7071067811865476,film light,1,5,Tango,0
+Albums-Chrisanne3-05_56,Tango,2.0,0.7071067811865476,film light,0,5,Tango,0
+Albums-Chrisanne3-05_106_hpss,Tango,0.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Chrisanne3-05_106,Tango,0.0,1.4142135623730951,music light,0,5,Tango,2
+Albums-Chrisanne3-05_97_hpss,Tango,-1.0,1.4142135623730951,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_97,Tango,-1.0,1.4142135623730951,film standard,0,5,Tango,1
+Albums-Chrisanne3-05_05_hpss,Tango,-2.0,0.5,speech,1,5,Tango,5
+Albums-Chrisanne3-05_05,Tango,-2.0,0.5,speech,0,5,Tango,5
+Albums-Chrisanne3-05_39_hpss,Tango,-1.0,0.7071067811865476,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_39,Tango,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_143_hpss,Tango,1.0,2.0,speech,1,6,VienneseWaltz,5
+Albums-Chrisanne3-05_143,Tango,1.0,2.0,speech,0,4,Samba,5
+Albums-Chrisanne3-05_04_hpss,Tango,-2.0,0.5,music light,1,5,Tango,2
+Albums-Chrisanne3-05_04,Tango,-2.0,0.5,music light,0,5,Tango,2
+Albums-Chrisanne3-05_130_hpss,Tango,-1.0,2.0,music light,1,6,VienneseWaltz,2
+Albums-Chrisanne3-05_130,Tango,-1.0,2.0,music light,0,6,VienneseWaltz,2
+Albums-Chrisanne3-05_126_hpss,Tango,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Albums-Chrisanne3-05_126,Tango,-1.0,2.0,radio,0,6,VienneseWaltz,4
+Albums-Chrisanne3-05_34_hpss,Tango,-2.0,0.7071067811865476,music light,1,5,Tango,2
+Albums-Chrisanne3-05_34,Tango,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Albums-Chrisanne3-05_42_hpss,Tango,0.0,0.7071067811865476,radio,1,5,Tango,4
+Albums-Chrisanne3-05_42,Tango,0.0,0.7071067811865476,radio,0,5,Tango,4
+Albums-Chrisanne3-05_105_hpss,Tango,0.0,1.4142135623730951,music standard,1,5,Tango,3
+Albums-Chrisanne3-05_105,Tango,0.0,1.4142135623730951,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_133_hpss,Tango,0.0,2.0,film standard,1,6,VienneseWaltz,1
+Albums-Chrisanne3-05_133,Tango,0.0,2.0,film standard,0,6,VienneseWaltz,1
+Albums-Chrisanne3-05_85_hpss,Tango,2.0,1.0,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_85,Tango,2.0,1.0,film standard,0,2,Quickstep,1
+Albums-Chrisanne3-05_61_hpss,Tango,-2.0,1.0,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_61,Tango,-2.0,1.0,film standard,0,2,Quickstep,1
+Albums-Chrisanne3-05_10_hpss,Tango,-1.0,0.5,music light,1,7,Waltz,2
+Albums-Chrisanne3-05_10,Tango,-1.0,0.5,music light,0,5,Tango,2
+Albums-Chrisanne3-05_09_hpss,Tango,-1.0,0.5,music standard,1,7,Waltz,3
+Albums-Chrisanne3-05_09,Tango,-1.0,0.5,music standard,0,5,Tango,3
+Albums-Chrisanne3-05_118_hpss,Tango,2.0,1.4142135623730951,music light,1,5,Tango,2
+Albums-Chrisanne3-05_118,Tango,2.0,1.4142135623730951,music light,0,5,Tango,2
+Albums-Chrisanne3-05_19_hpss,Tango,1.0,0.5,film standard,1,5,Tango,1
+Albums-Chrisanne3-05_19,Tango,1.0,0.5,film standard,0,5,Tango,1
+Media-103413_37_hpss,ChaChaCha,-1.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103413_37,ChaChaCha,-1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103413_59_hpss,ChaChaCha,2.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103413_59,ChaChaCha,2.0,0.7071067811865476,speech,0,0,ChaChaCha,5
+Media-103413_138_hpss,ChaChaCha,1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103413_138,ChaChaCha,1.0,2.0,radio,0,4,Samba,4
+Media-103413_11_hpss,ChaChaCha,-1.0,0.5,speech,1,7,Waltz,5
+Media-103413_11,ChaChaCha,-1.0,0.5,speech,0,0,ChaChaCha,5
+Media-103413_96_hpss,ChaChaCha,-1.0,1.4142135623730951,radio,1,5,Tango,4
+Media-103413_96,ChaChaCha,-1.0,1.4142135623730951,radio,0,0,ChaChaCha,4
+Media-103413_28_hpss,ChaChaCha,2.0,0.5,music light,1,7,Waltz,2
+Media-103413_28,ChaChaCha,2.0,0.5,music light,0,0,ChaChaCha,2
+Media-103413_109_hpss,ChaChaCha,1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103413_109,ChaChaCha,1.0,1.4142135623730951,film standard,0,0,ChaChaCha,1
+Media-103413_04_hpss,ChaChaCha,-2.0,0.5,music light,1,7,Waltz,2
+Media-103413_04,ChaChaCha,-2.0,0.5,music light,0,5,Tango,2
+Media-103413_125_hpss,ChaChaCha,-2.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103413_125,ChaChaCha,-2.0,2.0,speech,0,4,Samba,5
+Media-103413_93_hpss,ChaChaCha,-2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103413_93,ChaChaCha,-2.0,1.4142135623730951,music standard,0,0,ChaChaCha,3
+Media-103413_137_hpss,ChaChaCha,0.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103413_137,ChaChaCha,0.0,2.0,speech,0,4,Samba,5
+Media-103413_99_hpss,ChaChaCha,-1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103413_99,ChaChaCha,-1.0,1.4142135623730951,music standard,0,0,ChaChaCha,3
+Media-103413_145_hpss,ChaChaCha,2.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103413_145,ChaChaCha,2.0,2.0,film standard,0,4,Samba,1
+Media-103413_24_hpss,ChaChaCha,2.0,0.5,radio,1,7,Waltz,4
+Media-103413_24,ChaChaCha,2.0,0.5,radio,0,1,Jive,4
+Media-103413_29_hpss,ChaChaCha,2.0,0.5,speech,1,7,Waltz,5
+Media-103413_29,ChaChaCha,2.0,0.5,speech,0,0,ChaChaCha,5
+Media-103413_36_hpss,ChaChaCha,-1.0,0.7071067811865476,radio,1,5,Tango,4
+Media-103413_36,ChaChaCha,-1.0,0.7071067811865476,radio,0,0,ChaChaCha,4
+Media-103413_126_hpss,ChaChaCha,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103413_126,ChaChaCha,-1.0,2.0,radio,0,4,Samba,4
+Media-103413_49_hpss,ChaChaCha,1.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103413_49,ChaChaCha,1.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103413_70_hpss,ChaChaCha,-1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103413_70,ChaChaCha,-1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103413_132_hpss,ChaChaCha,0.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103413_132,ChaChaCha,0.0,2.0,radio,0,4,Samba,4
+Media-103413_85_hpss,ChaChaCha,2.0,1.0,film standard,1,7,Waltz,1
+Media-103413_85,ChaChaCha,2.0,1.0,film standard,0,2,Quickstep,1
+Media-103413_88_hpss,ChaChaCha,2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103413_88,ChaChaCha,2.0,1.0,music light,0,2,Quickstep,2
+Media-103413_97_hpss,ChaChaCha,-1.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103413_97,ChaChaCha,-1.0,1.4142135623730951,film standard,0,0,ChaChaCha,1
+Media-103413_40_hpss,ChaChaCha,-1.0,0.7071067811865476,music light,1,5,Tango,2
+Media-103413_40,ChaChaCha,-1.0,0.7071067811865476,music light,0,0,ChaChaCha,2
+Media-103413_42_hpss,ChaChaCha,0.0,0.7071067811865476,radio,1,5,Tango,4
+Media-103413_42,ChaChaCha,0.0,0.7071067811865476,radio,0,0,ChaChaCha,4
+Media-103413_105_hpss,ChaChaCha,0.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103413_105,ChaChaCha,0.0,1.4142135623730951,music standard,0,0,ChaChaCha,3
+Media-103413_110_hpss,ChaChaCha,1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103413_110,ChaChaCha,1.0,1.4142135623730951,film light,0,0,ChaChaCha,0
+Media-103413_87_hpss,ChaChaCha,2.0,1.0,music standard,1,7,Waltz,3
+Media-103413_87,ChaChaCha,2.0,1.0,music standard,0,2,Quickstep,3
+Media-103413_64_hpss,ChaChaCha,-2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103413_64,ChaChaCha,-2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103413_00_hpss,ChaChaCha,-2.0,0.5,radio,1,7,Waltz,4
+Media-103413_00,ChaChaCha,-2.0,0.5,radio,0,5,Tango,4
+Media-103413_129_hpss,ChaChaCha,-1.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103413_129,ChaChaCha,-1.0,2.0,music standard,0,4,Samba,3
+Media-103413_78_hpss,ChaChaCha,1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103413_78,ChaChaCha,1.0,1.0,radio,0,2,Quickstep,4
+Media-103413_141_hpss,ChaChaCha,1.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103413_141,ChaChaCha,1.0,2.0,music standard,0,4,Samba,3
+Media-103413_22_hpss,ChaChaCha,1.0,0.5,music light,1,7,Waltz,2
+Media-103413_22,ChaChaCha,1.0,0.5,music light,0,0,ChaChaCha,2
+Media-103413_92_hpss,ChaChaCha,-2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103413_92,ChaChaCha,-2.0,1.4142135623730951,film light,0,0,ChaChaCha,0
+Media-103413_130_hpss,ChaChaCha,-1.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103413_130,ChaChaCha,-1.0,2.0,music light,0,4,Samba,2
+Media-103413_39_hpss,ChaChaCha,-1.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103413_39,ChaChaCha,-1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103413_75_hpss,ChaChaCha,0.0,1.0,music standard,1,7,Waltz,3
+Media-103413_75,ChaChaCha,0.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-103413_27_hpss,ChaChaCha,2.0,0.5,music standard,1,7,Waltz,3
+Media-103413_27,ChaChaCha,2.0,0.5,music standard,0,0,ChaChaCha,3
+Media-103413_51_hpss,ChaChaCha,1.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103413_51,ChaChaCha,1.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103413_46_hpss,ChaChaCha,0.0,0.7071067811865476,music light,1,5,Tango,2
+Media-103413_46,ChaChaCha,0.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103413_44_hpss,ChaChaCha,0.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103413_44,ChaChaCha,0.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103413_21_hpss,ChaChaCha,1.0,0.5,music standard,1,7,Waltz,3
+Media-103413_21,ChaChaCha,1.0,0.5,music standard,0,0,ChaChaCha,3
+Media-103413_52_hpss,ChaChaCha,1.0,0.7071067811865476,music light,1,7,Waltz,2
+Media-103413_52,ChaChaCha,1.0,0.7071067811865476,music light,0,0,ChaChaCha,2
+Media-103413_30_hpss,ChaChaCha,-2.0,0.7071067811865476,radio,1,5,Tango,4
+Media-103413_30,ChaChaCha,-2.0,0.7071067811865476,radio,0,0,ChaChaCha,4
+Media-103413_133_hpss,ChaChaCha,0.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103413_133,ChaChaCha,0.0,2.0,film standard,0,4,Samba,1
+Media-103413_113_hpss,ChaChaCha,1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103413_113,ChaChaCha,1.0,1.4142135623730951,speech,0,0,ChaChaCha,5
+Media-103413_89_hpss,ChaChaCha,2.0,1.0,speech,1,7,Waltz,5
+Media-103413_89,ChaChaCha,2.0,1.0,speech,0,2,Quickstep,5
+Media-103413_25_hpss,ChaChaCha,2.0,0.5,film standard,1,7,Waltz,1
+Media-103413_25,ChaChaCha,2.0,0.5,film standard,0,0,ChaChaCha,1
+Media-103413_94_hpss,ChaChaCha,-2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103413_94,ChaChaCha,-2.0,1.4142135623730951,music light,0,0,ChaChaCha,2
+Media-103413_71_hpss,ChaChaCha,-1.0,1.0,speech,1,7,Waltz,5
+Media-103413_71,ChaChaCha,-1.0,1.0,speech,0,6,VienneseWaltz,5
+Media-103413_106_hpss,ChaChaCha,0.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103413_106,ChaChaCha,0.0,1.4142135623730951,music light,0,0,ChaChaCha,2
+Media-103413_83_hpss,ChaChaCha,1.0,1.0,speech,1,7,Waltz,5
+Media-103413_83,ChaChaCha,1.0,1.0,speech,0,2,Quickstep,5
+Media-103413_146_hpss,ChaChaCha,2.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103413_146,ChaChaCha,2.0,2.0,film light,0,4,Samba,0
+Media-103413_104_hpss,ChaChaCha,0.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103413_104,ChaChaCha,0.0,1.4142135623730951,film light,0,0,ChaChaCha,0
+Media-103413_13_hpss,ChaChaCha,0.0,0.5,film standard,1,7,Waltz,1
+Media-103413_13,ChaChaCha,0.0,0.5,film standard,0,0,ChaChaCha,1
+Media-103413_01_hpss,ChaChaCha,-2.0,0.5,film standard,1,7,Waltz,1
+Media-103413_01,ChaChaCha,-2.0,0.5,film standard,0,0,ChaChaCha,1
+Media-103413_144_hpss,ChaChaCha,2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103413_144,ChaChaCha,2.0,2.0,radio,0,4,Samba,4
+Media-103413_77_hpss,ChaChaCha,0.0,1.0,speech,1,7,Waltz,5
+Media-103413_77,ChaChaCha,0.0,1.0,speech,0,6,VienneseWaltz,5
+Media-103413_69_hpss,ChaChaCha,-1.0,1.0,music standard,1,7,Waltz,3
+Media-103413_69,ChaChaCha,-1.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-103413_84_hpss,ChaChaCha,2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103413_84,ChaChaCha,2.0,1.0,radio,0,1,Jive,4
+Media-103413_127_hpss,ChaChaCha,-1.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103413_127,ChaChaCha,-1.0,2.0,film standard,0,4,Samba,1
+Media-103413_47_hpss,ChaChaCha,0.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103413_47,ChaChaCha,0.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103413_90_hpss,ChaChaCha,-2.0,1.4142135623730951,radio,1,5,Tango,4
+Media-103413_90,ChaChaCha,-2.0,1.4142135623730951,radio,0,0,ChaChaCha,4
+Media-103413_45_hpss,ChaChaCha,0.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103413_45,ChaChaCha,0.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103413_134_hpss,ChaChaCha,0.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103413_134,ChaChaCha,0.0,2.0,film light,0,4,Samba,0
+Media-103413_14_hpss,ChaChaCha,0.0,0.5,film light,1,7,Waltz,0
+Media-103413_14,ChaChaCha,0.0,0.5,film light,0,0,ChaChaCha,0
+Media-103413_08_hpss,ChaChaCha,-1.0,0.5,film light,1,7,Waltz,0
+Media-103413_08,ChaChaCha,-1.0,0.5,film light,0,0,ChaChaCha,0
+Media-103413_148_hpss,ChaChaCha,2.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103413_148,ChaChaCha,2.0,2.0,music light,0,4,Samba,2
+Media-103413_131_hpss,ChaChaCha,-1.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103413_131,ChaChaCha,-1.0,2.0,speech,0,4,Samba,5
+Media-103413_63_hpss,ChaChaCha,-2.0,1.0,music standard,1,7,Waltz,3
+Media-103413_63,ChaChaCha,-2.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-103413_16_hpss,ChaChaCha,0.0,0.5,music light,1,7,Waltz,2
+Media-103413_16,ChaChaCha,0.0,0.5,music light,0,0,ChaChaCha,2
+Media-103413_35_hpss,ChaChaCha,-2.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103413_35,ChaChaCha,-2.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103413_67_hpss,ChaChaCha,-1.0,1.0,film standard,1,7,Waltz,1
+Media-103413_67,ChaChaCha,-1.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-103413_55_hpss,ChaChaCha,2.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103413_55,ChaChaCha,2.0,0.7071067811865476,film standard,0,0,ChaChaCha,1
+Media-103413_140_hpss,ChaChaCha,1.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103413_140,ChaChaCha,1.0,2.0,film light,0,4,Samba,0
+Media-103413_108_hpss,ChaChaCha,1.0,1.4142135623730951,radio,1,5,Tango,4
+Media-103413_108,ChaChaCha,1.0,1.4142135623730951,radio,0,0,ChaChaCha,4
+Media-103413_111_hpss,ChaChaCha,1.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103413_111,ChaChaCha,1.0,1.4142135623730951,music standard,0,0,ChaChaCha,3
+Media-103413_114_hpss,ChaChaCha,2.0,1.4142135623730951,radio,1,5,Tango,4
+Media-103413_114,ChaChaCha,2.0,1.4142135623730951,radio,0,0,ChaChaCha,4
+Media-103413_116_hpss,ChaChaCha,2.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103413_116,ChaChaCha,2.0,1.4142135623730951,film light,0,0,ChaChaCha,0
+Media-103413_95_hpss,ChaChaCha,-2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103413_95,ChaChaCha,-2.0,1.4142135623730951,speech,0,0,ChaChaCha,5
+Media-103413_10_hpss,ChaChaCha,-1.0,0.5,music light,1,7,Waltz,2
+Media-103413_10,ChaChaCha,-1.0,0.5,music light,0,5,Tango,2
+Media-103413_56_hpss,ChaChaCha,2.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103413_56,ChaChaCha,2.0,0.7071067811865476,film light,0,0,ChaChaCha,0
+Media-103413_82_hpss,ChaChaCha,1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103413_82,ChaChaCha,1.0,1.0,music light,0,2,Quickstep,2
+Media-103413_18_hpss,ChaChaCha,1.0,0.5,radio,1,7,Waltz,4
+Media-103413_18,ChaChaCha,1.0,0.5,radio,0,5,Tango,4
+Media-103413_31_hpss,ChaChaCha,-2.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103413_31,ChaChaCha,-2.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103413_54_hpss,ChaChaCha,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103413_54,ChaChaCha,2.0,0.7071067811865476,radio,0,0,ChaChaCha,4
+Media-103413_03_hpss,ChaChaCha,-2.0,0.5,music standard,1,7,Waltz,3
+Media-103413_03,ChaChaCha,-2.0,0.5,music standard,0,0,ChaChaCha,3
+Media-103413_118_hpss,ChaChaCha,2.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103413_118,ChaChaCha,2.0,1.4142135623730951,music light,0,0,ChaChaCha,2
+Media-103413_122_hpss,ChaChaCha,-2.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103413_122,ChaChaCha,-2.0,2.0,film light,0,4,Samba,0
+Media-103413_07_hpss,ChaChaCha,-1.0,0.5,film standard,1,7,Waltz,1
+Media-103413_07,ChaChaCha,-1.0,0.5,film standard,0,0,ChaChaCha,1
+Media-103413_74_hpss,ChaChaCha,0.0,1.0,film light,1,7,Waltz,0
+Media-103413_74,ChaChaCha,0.0,1.0,film light,0,6,VienneseWaltz,0
+Media-103413_12_hpss,ChaChaCha,0.0,0.5,radio,1,7,Waltz,4
+Media-103413_12,ChaChaCha,0.0,0.5,radio,0,5,Tango,4
+Media-103413_81_hpss,ChaChaCha,1.0,1.0,music standard,1,7,Waltz,3
+Media-103413_81,ChaChaCha,1.0,1.0,music standard,0,2,Quickstep,3
+Media-103413_17_hpss,ChaChaCha,0.0,0.5,speech,1,7,Waltz,5
+Media-103413_17,ChaChaCha,0.0,0.5,speech,0,0,ChaChaCha,5
+Media-103413_34_hpss,ChaChaCha,-2.0,0.7071067811865476,music light,1,5,Tango,2
+Media-103413_34,ChaChaCha,-2.0,0.7071067811865476,music light,0,5,Tango,2
+Media-103413_119_hpss,ChaChaCha,2.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103413_119,ChaChaCha,2.0,1.4142135623730951,speech,0,0,ChaChaCha,5
+Media-103413_101_hpss,ChaChaCha,-1.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103413_101,ChaChaCha,-1.0,1.4142135623730951,speech,0,0,ChaChaCha,5
+Media-103413_112_hpss,ChaChaCha,1.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103413_112,ChaChaCha,1.0,1.4142135623730951,music light,0,0,ChaChaCha,2
+Media-103413_72_hpss,ChaChaCha,0.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103413_72,ChaChaCha,0.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103413_135_hpss,ChaChaCha,0.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103413_135,ChaChaCha,0.0,2.0,music standard,0,4,Samba,3
+Media-103413_86_hpss,ChaChaCha,2.0,1.0,film light,1,7,Waltz,0
+Media-103413_86,ChaChaCha,2.0,1.0,film light,0,2,Quickstep,0
+Media-103413_136_hpss,ChaChaCha,0.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103413_136,ChaChaCha,0.0,2.0,music light,0,4,Samba,2
+Media-103413_100_hpss,ChaChaCha,-1.0,1.4142135623730951,music light,1,5,Tango,2
+Media-103413_100,ChaChaCha,-1.0,1.4142135623730951,music light,0,0,ChaChaCha,2
+Media-103413_20_hpss,ChaChaCha,1.0,0.5,film light,1,7,Waltz,0
+Media-103413_20,ChaChaCha,1.0,0.5,film light,0,0,ChaChaCha,0
+Media-103413_73_hpss,ChaChaCha,0.0,1.0,film standard,1,7,Waltz,1
+Media-103413_73,ChaChaCha,0.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-103413_76_hpss,ChaChaCha,0.0,1.0,music light,1,6,VienneseWaltz,2
+Media-103413_76,ChaChaCha,0.0,1.0,music light,0,6,VienneseWaltz,2
+Media-103413_68_hpss,ChaChaCha,-1.0,1.0,film light,1,7,Waltz,0
+Media-103413_68,ChaChaCha,-1.0,1.0,film light,0,6,VienneseWaltz,0
+Media-103413_120_hpss,ChaChaCha,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-103413_120,ChaChaCha,-2.0,2.0,radio,0,4,Samba,4
+Media-103413_33_hpss,ChaChaCha,-2.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103413_33,ChaChaCha,-2.0,0.7071067811865476,music standard,0,5,Tango,3
+Media-103413_62_hpss,ChaChaCha,-2.0,1.0,film light,1,7,Waltz,0
+Media-103413_62,ChaChaCha,-2.0,1.0,film light,0,6,VienneseWaltz,0
+Media-103413_48_hpss,ChaChaCha,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-103413_48,ChaChaCha,1.0,0.7071067811865476,radio,0,0,ChaChaCha,4
+Media-103413_121_hpss,ChaChaCha,-2.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103413_121,ChaChaCha,-2.0,2.0,film standard,0,4,Samba,1
+Media-103413_147_hpss,ChaChaCha,2.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103413_147,ChaChaCha,2.0,2.0,music standard,0,4,Samba,3
+Media-103413_128_hpss,ChaChaCha,-1.0,2.0,film light,1,6,VienneseWaltz,0
+Media-103413_128,ChaChaCha,-1.0,2.0,film light,0,4,Samba,0
+Media-103413_117_hpss,ChaChaCha,2.0,1.4142135623730951,music standard,1,5,Tango,3
+Media-103413_117,ChaChaCha,2.0,1.4142135623730951,music standard,0,0,ChaChaCha,3
+Media-103413_23_hpss,ChaChaCha,1.0,0.5,speech,1,7,Waltz,5
+Media-103413_23,ChaChaCha,1.0,0.5,speech,0,0,ChaChaCha,5
+Media-103413_107_hpss,ChaChaCha,0.0,1.4142135623730951,speech,1,5,Tango,5
+Media-103413_107,ChaChaCha,0.0,1.4142135623730951,speech,0,0,ChaChaCha,5
+Media-103413_79_hpss,ChaChaCha,1.0,1.0,film standard,1,7,Waltz,1
+Media-103413_79,ChaChaCha,1.0,1.0,film standard,0,2,Quickstep,1
+Media-103413_43_hpss,ChaChaCha,0.0,0.7071067811865476,film standard,1,5,Tango,1
+Media-103413_43,ChaChaCha,0.0,0.7071067811865476,film standard,0,5,Tango,1
+Media-103413_103_hpss,ChaChaCha,0.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103413_103,ChaChaCha,0.0,1.4142135623730951,film standard,0,0,ChaChaCha,1
+Media-103413_19_hpss,ChaChaCha,1.0,0.5,film standard,1,7,Waltz,1
+Media-103413_19,ChaChaCha,1.0,0.5,film standard,0,0,ChaChaCha,1
+Media-103413_02_hpss,ChaChaCha,-2.0,0.5,film light,1,7,Waltz,0
+Media-103413_02,ChaChaCha,-2.0,0.5,film light,0,0,ChaChaCha,0
+Media-103413_124_hpss,ChaChaCha,-2.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103413_124,ChaChaCha,-2.0,2.0,music light,0,4,Samba,2
+Media-103413_05_hpss,ChaChaCha,-2.0,0.5,speech,1,7,Waltz,5
+Media-103413_05,ChaChaCha,-2.0,0.5,speech,0,0,ChaChaCha,5
+Media-103413_80_hpss,ChaChaCha,1.0,1.0,film light,1,7,Waltz,0
+Media-103413_80,ChaChaCha,1.0,1.0,film light,0,2,Quickstep,0
+Media-103413_143_hpss,ChaChaCha,1.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103413_143,ChaChaCha,1.0,2.0,speech,0,4,Samba,5
+Media-103413_115_hpss,ChaChaCha,2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103413_115,ChaChaCha,2.0,1.4142135623730951,film standard,0,0,ChaChaCha,1
+Media-103413_53_hpss,ChaChaCha,1.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103413_53,ChaChaCha,1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103413_32_hpss,ChaChaCha,-2.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103413_32,ChaChaCha,-2.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103413_60_hpss,ChaChaCha,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103413_60,ChaChaCha,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103413_139_hpss,ChaChaCha,1.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-103413_139,ChaChaCha,1.0,2.0,film standard,0,4,Samba,1
+Media-103413_41_hpss,ChaChaCha,-1.0,0.7071067811865476,speech,1,5,Tango,5
+Media-103413_41,ChaChaCha,-1.0,0.7071067811865476,speech,0,5,Tango,5
+Media-103413_61_hpss,ChaChaCha,-2.0,1.0,film standard,1,7,Waltz,1
+Media-103413_61,ChaChaCha,-2.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-103413_58_hpss,ChaChaCha,2.0,0.7071067811865476,music light,1,5,Tango,2
+Media-103413_58,ChaChaCha,2.0,0.7071067811865476,music light,0,0,ChaChaCha,2
+Media-103413_09_hpss,ChaChaCha,-1.0,0.5,music standard,1,7,Waltz,3
+Media-103413_09,ChaChaCha,-1.0,0.5,music standard,0,0,ChaChaCha,3
+Media-103413_66_hpss,ChaChaCha,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-103413_66,ChaChaCha,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-103413_65_hpss,ChaChaCha,-2.0,1.0,speech,1,7,Waltz,5
+Media-103413_65,ChaChaCha,-2.0,1.0,speech,0,6,VienneseWaltz,5
+Media-103413_123_hpss,ChaChaCha,-2.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-103413_123,ChaChaCha,-2.0,2.0,music standard,0,4,Samba,3
+Media-103413_57_hpss,ChaChaCha,2.0,0.7071067811865476,music standard,1,5,Tango,3
+Media-103413_57,ChaChaCha,2.0,0.7071067811865476,music standard,0,0,ChaChaCha,3
+Media-103413_142_hpss,ChaChaCha,1.0,2.0,music light,1,6,VienneseWaltz,2
+Media-103413_142,ChaChaCha,1.0,2.0,music light,0,4,Samba,2
+Media-103413_26_hpss,ChaChaCha,2.0,0.5,film light,1,7,Waltz,0
+Media-103413_26,ChaChaCha,2.0,0.5,film light,0,0,ChaChaCha,0
+Media-103413_06_hpss,ChaChaCha,-1.0,0.5,radio,1,7,Waltz,4
+Media-103413_06,ChaChaCha,-1.0,0.5,radio,0,5,Tango,4
+Media-103413_15_hpss,ChaChaCha,0.0,0.5,music standard,1,7,Waltz,3
+Media-103413_15,ChaChaCha,0.0,0.5,music standard,0,0,ChaChaCha,3
+Media-103413_91_hpss,ChaChaCha,-2.0,1.4142135623730951,film standard,1,5,Tango,1
+Media-103413_91,ChaChaCha,-2.0,1.4142135623730951,film standard,0,0,ChaChaCha,1
+Media-103413_50_hpss,ChaChaCha,1.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103413_50,ChaChaCha,1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103413_98_hpss,ChaChaCha,-1.0,1.4142135623730951,film light,1,5,Tango,0
+Media-103413_98,ChaChaCha,-1.0,1.4142135623730951,film light,0,0,ChaChaCha,0
+Media-103413_38_hpss,ChaChaCha,-1.0,0.7071067811865476,film light,1,5,Tango,0
+Media-103413_38,ChaChaCha,-1.0,0.7071067811865476,film light,0,5,Tango,0
+Media-103413_149_hpss,ChaChaCha,2.0,2.0,speech,1,6,VienneseWaltz,5
+Media-103413_149,ChaChaCha,2.0,2.0,speech,0,4,Samba,5
+Media-103413_102_hpss,ChaChaCha,0.0,1.4142135623730951,radio,1,5,Tango,4
+Media-103413_102,ChaChaCha,0.0,1.4142135623730951,radio,0,0,ChaChaCha,4
+Media-105112_43_hpss,VienneseWaltz,0.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105112_43,VienneseWaltz,0.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-105112_62_hpss,VienneseWaltz,-2.0,1.0,film light,1,7,Waltz,0
+Media-105112_62,VienneseWaltz,-2.0,1.0,film light,0,6,VienneseWaltz,0
+Media-105112_122_hpss,VienneseWaltz,-2.0,2.0,film light,1,5,Tango,0
+Media-105112_122,VienneseWaltz,-2.0,2.0,film light,0,5,Tango,0
+Media-105112_46_hpss,VienneseWaltz,0.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-105112_46,VienneseWaltz,0.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-105112_40_hpss,VienneseWaltz,-1.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-105112_40,VienneseWaltz,-1.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-105112_96_hpss,VienneseWaltz,-1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-105112_96,VienneseWaltz,-1.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105112_143_hpss,VienneseWaltz,1.0,2.0,speech,1,5,Tango,5
+Media-105112_143,VienneseWaltz,1.0,2.0,speech,0,6,VienneseWaltz,5
+Media-105112_53_hpss,VienneseWaltz,1.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-105112_53,VienneseWaltz,1.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-105112_130_hpss,VienneseWaltz,-1.0,2.0,music light,1,6,VienneseWaltz,2
+Media-105112_130,VienneseWaltz,-1.0,2.0,music light,0,6,VienneseWaltz,2
+Media-105112_107_hpss,VienneseWaltz,0.0,1.4142135623730951,speech,1,6,VienneseWaltz,5
+Media-105112_107,VienneseWaltz,0.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-105112_63_hpss,VienneseWaltz,-2.0,1.0,music standard,1,7,Waltz,3
+Media-105112_63,VienneseWaltz,-2.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-105112_133_hpss,VienneseWaltz,0.0,2.0,film standard,1,5,Tango,1
+Media-105112_133,VienneseWaltz,0.0,2.0,film standard,0,6,VienneseWaltz,1
+Media-105112_44_hpss,VienneseWaltz,0.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105112_44,VienneseWaltz,0.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-105112_118_hpss,VienneseWaltz,2.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-105112_118,VienneseWaltz,2.0,1.4142135623730951,music light,0,6,VienneseWaltz,2
+Media-105112_90_hpss,VienneseWaltz,-2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-105112_90,VienneseWaltz,-2.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105112_38_hpss,VienneseWaltz,-1.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-105112_38,VienneseWaltz,-1.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-105112_19_hpss,VienneseWaltz,1.0,0.5,film standard,1,7,Waltz,1
+Media-105112_19,VienneseWaltz,1.0,0.5,film standard,0,7,Waltz,1
+Media-105112_24_hpss,VienneseWaltz,2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-105112_24,VienneseWaltz,2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-105112_14_hpss,VienneseWaltz,0.0,0.5,film light,1,7,Waltz,0
+Media-105112_14,VienneseWaltz,0.0,0.5,film light,0,7,Waltz,0
+Media-105112_30_hpss,VienneseWaltz,-2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-105112_30,VienneseWaltz,-2.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105112_33_hpss,VienneseWaltz,-2.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105112_33,VienneseWaltz,-2.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-105112_47_hpss,VienneseWaltz,0.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105112_47,VienneseWaltz,0.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-105112_84_hpss,VienneseWaltz,2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105112_84,VienneseWaltz,2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105112_36_hpss,VienneseWaltz,-1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-105112_36,VienneseWaltz,-1.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105112_113_hpss,VienneseWaltz,1.0,1.4142135623730951,speech,1,6,VienneseWaltz,5
+Media-105112_113,VienneseWaltz,1.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-105112_100_hpss,VienneseWaltz,-1.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-105112_100,VienneseWaltz,-1.0,1.4142135623730951,music light,0,6,VienneseWaltz,2
+Media-105112_92_hpss,VienneseWaltz,-2.0,1.4142135623730951,film light,1,6,VienneseWaltz,0
+Media-105112_92,VienneseWaltz,-2.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-105112_97_hpss,VienneseWaltz,-1.0,1.4142135623730951,film standard,1,6,VienneseWaltz,1
+Media-105112_97,VienneseWaltz,-1.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-105112_76_hpss,VienneseWaltz,0.0,1.0,music light,1,6,VienneseWaltz,2
+Media-105112_76,VienneseWaltz,0.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105112_77_hpss,VienneseWaltz,0.0,1.0,speech,1,7,Waltz,5
+Media-105112_77,VienneseWaltz,0.0,1.0,speech,0,6,VienneseWaltz,5
+Media-105112_35_hpss,VienneseWaltz,-2.0,0.7071067811865476,speech,1,7,Waltz,5
+Media-105112_35,VienneseWaltz,-2.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-105112_83_hpss,VienneseWaltz,1.0,1.0,speech,1,6,VienneseWaltz,5
+Media-105112_83,VienneseWaltz,1.0,1.0,speech,0,6,VienneseWaltz,5
+Media-105112_134_hpss,VienneseWaltz,0.0,2.0,film light,1,5,Tango,0
+Media-105112_134,VienneseWaltz,0.0,2.0,film light,0,6,VienneseWaltz,0
+Media-105112_45_hpss,VienneseWaltz,0.0,0.7071067811865476,music standard,1,7,Waltz,3
+Media-105112_45,VienneseWaltz,0.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-105112_141_hpss,VienneseWaltz,1.0,2.0,music standard,1,5,Tango,3
+Media-105112_141,VienneseWaltz,1.0,2.0,music standard,0,6,VienneseWaltz,3
+Media-105112_07_hpss,VienneseWaltz,-1.0,0.5,film standard,1,7,Waltz,1
+Media-105112_07,VienneseWaltz,-1.0,0.5,film standard,0,7,Waltz,1
+Media-105112_109_hpss,VienneseWaltz,1.0,1.4142135623730951,film standard,1,6,VienneseWaltz,1
+Media-105112_109,VienneseWaltz,1.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-105112_39_hpss,VienneseWaltz,-1.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-105112_39,VienneseWaltz,-1.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-105112_20_hpss,VienneseWaltz,1.0,0.5,film light,1,7,Waltz,0
+Media-105112_20,VienneseWaltz,1.0,0.5,film light,0,7,Waltz,0
+Media-105112_142_hpss,VienneseWaltz,1.0,2.0,music light,1,6,VienneseWaltz,2
+Media-105112_142,VienneseWaltz,1.0,2.0,music light,0,6,VienneseWaltz,2
+Media-105112_125_hpss,VienneseWaltz,-2.0,2.0,speech,1,5,Tango,5
+Media-105112_125,VienneseWaltz,-2.0,2.0,speech,0,5,Tango,5
+Media-105112_80_hpss,VienneseWaltz,1.0,1.0,film light,1,6,VienneseWaltz,0
+Media-105112_80,VienneseWaltz,1.0,1.0,film light,0,6,VienneseWaltz,0
+Media-105112_12_hpss,VienneseWaltz,0.0,0.5,radio,1,6,VienneseWaltz,4
+Media-105112_12,VienneseWaltz,0.0,0.5,radio,0,6,VienneseWaltz,4
+Media-105112_50_hpss,VienneseWaltz,1.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-105112_50,VienneseWaltz,1.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-105112_104_hpss,VienneseWaltz,0.0,1.4142135623730951,film light,1,6,VienneseWaltz,0
+Media-105112_104,VienneseWaltz,0.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-105112_74_hpss,VienneseWaltz,0.0,1.0,film light,1,7,Waltz,0
+Media-105112_74,VienneseWaltz,0.0,1.0,film light,0,6,VienneseWaltz,0
+Media-105112_111_hpss,VienneseWaltz,1.0,1.4142135623730951,music standard,1,6,VienneseWaltz,3
+Media-105112_111,VienneseWaltz,1.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-105112_86_hpss,VienneseWaltz,2.0,1.0,film light,1,7,Waltz,0
+Media-105112_86,VienneseWaltz,2.0,1.0,film light,0,6,VienneseWaltz,0
+Media-105112_82_hpss,VienneseWaltz,1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-105112_82,VienneseWaltz,1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105112_93_hpss,VienneseWaltz,-2.0,1.4142135623730951,music standard,1,6,VienneseWaltz,3
+Media-105112_93,VienneseWaltz,-2.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-105112_59_hpss,VienneseWaltz,2.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-105112_59,VienneseWaltz,2.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-105112_21_hpss,VienneseWaltz,1.0,0.5,music standard,1,7,Waltz,3
+Media-105112_21,VienneseWaltz,1.0,0.5,music standard,0,7,Waltz,3
+Media-105112_145_hpss,VienneseWaltz,2.0,2.0,film standard,1,5,Tango,1
+Media-105112_145,VienneseWaltz,2.0,2.0,film standard,0,5,Tango,1
+Media-105112_110_hpss,VienneseWaltz,1.0,1.4142135623730951,film light,1,6,VienneseWaltz,0
+Media-105112_110,VienneseWaltz,1.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-105112_56_hpss,VienneseWaltz,2.0,0.7071067811865476,film light,1,6,VienneseWaltz,0
+Media-105112_56,VienneseWaltz,2.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-105112_31_hpss,VienneseWaltz,-2.0,0.7071067811865476,film standard,1,7,Waltz,1
+Media-105112_31,VienneseWaltz,-2.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-105112_09_hpss,VienneseWaltz,-1.0,0.5,music standard,1,7,Waltz,3
+Media-105112_09,VienneseWaltz,-1.0,0.5,music standard,0,7,Waltz,3
+Media-105112_149_hpss,VienneseWaltz,2.0,2.0,speech,1,5,Tango,5
+Media-105112_149,VienneseWaltz,2.0,2.0,speech,0,5,Tango,5
+Media-105112_112_hpss,VienneseWaltz,1.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-105112_112,VienneseWaltz,1.0,1.4142135623730951,music light,0,6,VienneseWaltz,2
+Media-105112_70_hpss,VienneseWaltz,-1.0,1.0,music light,1,6,VienneseWaltz,2
+Media-105112_70,VienneseWaltz,-1.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105112_124_hpss,VienneseWaltz,-2.0,2.0,music light,1,5,Tango,2
+Media-105112_124,VienneseWaltz,-2.0,2.0,music light,0,6,VienneseWaltz,2
+Media-105112_87_hpss,VienneseWaltz,2.0,1.0,music standard,1,7,Waltz,3
+Media-105112_87,VienneseWaltz,2.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-105112_58_hpss,VienneseWaltz,2.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-105112_58,VienneseWaltz,2.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-105112_00_hpss,VienneseWaltz,-2.0,0.5,radio,1,6,VienneseWaltz,4
+Media-105112_00,VienneseWaltz,-2.0,0.5,radio,0,6,VienneseWaltz,4
+Media-105112_139_hpss,VienneseWaltz,1.0,2.0,film standard,1,5,Tango,1
+Media-105112_139,VienneseWaltz,1.0,2.0,film standard,0,6,VienneseWaltz,1
+Media-105112_137_hpss,VienneseWaltz,0.0,2.0,speech,1,5,Tango,5
+Media-105112_137,VienneseWaltz,0.0,2.0,speech,0,6,VienneseWaltz,5
+Media-105112_51_hpss,VienneseWaltz,1.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-105112_51,VienneseWaltz,1.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-105112_81_hpss,VienneseWaltz,1.0,1.0,music standard,1,6,VienneseWaltz,3
+Media-105112_81,VienneseWaltz,1.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-105112_128_hpss,VienneseWaltz,-1.0,2.0,film light,1,6,VienneseWaltz,0
+Media-105112_128,VienneseWaltz,-1.0,2.0,film light,0,6,VienneseWaltz,0
+Media-105112_60_hpss,VienneseWaltz,-2.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105112_60,VienneseWaltz,-2.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105112_55_hpss,VienneseWaltz,2.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-105112_55,VienneseWaltz,2.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-105112_68_hpss,VienneseWaltz,-1.0,1.0,film light,1,7,Waltz,0
+Media-105112_68,VienneseWaltz,-1.0,1.0,film light,0,6,VienneseWaltz,0
+Media-105112_129_hpss,VienneseWaltz,-1.0,2.0,music standard,1,6,VienneseWaltz,3
+Media-105112_129,VienneseWaltz,-1.0,2.0,music standard,0,6,VienneseWaltz,3
+Media-105112_48_hpss,VienneseWaltz,1.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-105112_48,VienneseWaltz,1.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105112_37_hpss,VienneseWaltz,-1.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-105112_37,VienneseWaltz,-1.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-105112_26_hpss,VienneseWaltz,2.0,0.5,film light,1,7,Waltz,0
+Media-105112_26,VienneseWaltz,2.0,0.5,film light,0,6,VienneseWaltz,0
+Media-105112_29_hpss,VienneseWaltz,2.0,0.5,speech,1,7,Waltz,5
+Media-105112_29,VienneseWaltz,2.0,0.5,speech,0,6,VienneseWaltz,5
+Media-105112_49_hpss,VienneseWaltz,1.0,0.7071067811865476,film standard,1,6,VienneseWaltz,1
+Media-105112_49,VienneseWaltz,1.0,0.7071067811865476,film standard,0,6,VienneseWaltz,1
+Media-105112_131_hpss,VienneseWaltz,-1.0,2.0,speech,1,6,VienneseWaltz,5
+Media-105112_131,VienneseWaltz,-1.0,2.0,speech,0,6,VienneseWaltz,5
+Media-105112_85_hpss,VienneseWaltz,2.0,1.0,film standard,1,7,Waltz,1
+Media-105112_85,VienneseWaltz,2.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-105112_04_hpss,VienneseWaltz,-2.0,0.5,music light,1,7,Waltz,2
+Media-105112_04,VienneseWaltz,-2.0,0.5,music light,0,6,VienneseWaltz,2
+Media-105112_136_hpss,VienneseWaltz,0.0,2.0,music light,1,6,VienneseWaltz,2
+Media-105112_136,VienneseWaltz,0.0,2.0,music light,0,6,VienneseWaltz,2
+Media-105112_114_hpss,VienneseWaltz,2.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-105112_114,VienneseWaltz,2.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105112_98_hpss,VienneseWaltz,-1.0,1.4142135623730951,film light,1,6,VienneseWaltz,0
+Media-105112_98,VienneseWaltz,-1.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-105112_25_hpss,VienneseWaltz,2.0,0.5,film standard,1,7,Waltz,1
+Media-105112_25,VienneseWaltz,2.0,0.5,film standard,0,6,VienneseWaltz,1
+Media-105112_54_hpss,VienneseWaltz,2.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-105112_54,VienneseWaltz,2.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105112_41_hpss,VienneseWaltz,-1.0,0.7071067811865476,speech,1,6,VienneseWaltz,5
+Media-105112_41,VienneseWaltz,-1.0,0.7071067811865476,speech,0,6,VienneseWaltz,5
+Media-105112_123_hpss,VienneseWaltz,-2.0,2.0,music standard,1,5,Tango,3
+Media-105112_123,VienneseWaltz,-2.0,2.0,music standard,0,5,Tango,3
+Media-105112_146_hpss,VienneseWaltz,2.0,2.0,film light,1,5,Tango,0
+Media-105112_146,VienneseWaltz,2.0,2.0,film light,0,5,Tango,0
+Media-105112_79_hpss,VienneseWaltz,1.0,1.0,film standard,1,6,VienneseWaltz,1
+Media-105112_79,VienneseWaltz,1.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-105112_88_hpss,VienneseWaltz,2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-105112_88,VienneseWaltz,2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105112_57_hpss,VienneseWaltz,2.0,0.7071067811865476,music standard,1,6,VienneseWaltz,3
+Media-105112_57,VienneseWaltz,2.0,0.7071067811865476,music standard,0,6,VienneseWaltz,3
+Media-105112_17_hpss,VienneseWaltz,0.0,0.5,speech,1,7,Waltz,5
+Media-105112_17,VienneseWaltz,0.0,0.5,speech,0,7,Waltz,5
+Media-105112_06_hpss,VienneseWaltz,-1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-105112_06,VienneseWaltz,-1.0,0.5,radio,0,6,VienneseWaltz,4
+Media-105112_132_hpss,VienneseWaltz,0.0,2.0,radio,1,6,VienneseWaltz,4
+Media-105112_132,VienneseWaltz,0.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105112_03_hpss,VienneseWaltz,-2.0,0.5,music standard,1,7,Waltz,3
+Media-105112_03,VienneseWaltz,-2.0,0.5,music standard,0,7,Waltz,3
+Media-105112_02_hpss,VienneseWaltz,-2.0,0.5,film light,1,7,Waltz,0
+Media-105112_02,VienneseWaltz,-2.0,0.5,film light,0,7,Waltz,0
+Media-105112_103_hpss,VienneseWaltz,0.0,1.4142135623730951,film standard,1,6,VienneseWaltz,1
+Media-105112_103,VienneseWaltz,0.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-105112_126_hpss,VienneseWaltz,-1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-105112_126,VienneseWaltz,-1.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105112_117_hpss,VienneseWaltz,2.0,1.4142135623730951,music standard,1,6,VienneseWaltz,3
+Media-105112_117,VienneseWaltz,2.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-105112_01_hpss,VienneseWaltz,-2.0,0.5,film standard,1,7,Waltz,1
+Media-105112_01,VienneseWaltz,-2.0,0.5,film standard,0,7,Waltz,1
+Media-105112_78_hpss,VienneseWaltz,1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105112_78,VienneseWaltz,1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105112_116_hpss,VienneseWaltz,2.0,1.4142135623730951,film light,1,6,VienneseWaltz,0
+Media-105112_116,VienneseWaltz,2.0,1.4142135623730951,film light,0,6,VienneseWaltz,0
+Media-105112_121_hpss,VienneseWaltz,-2.0,2.0,film standard,1,5,Tango,1
+Media-105112_121,VienneseWaltz,-2.0,2.0,film standard,0,5,Tango,1
+Media-105112_106_hpss,VienneseWaltz,0.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-105112_106,VienneseWaltz,0.0,1.4142135623730951,music light,0,6,VienneseWaltz,2
+Media-105112_75_hpss,VienneseWaltz,0.0,1.0,music standard,1,7,Waltz,3
+Media-105112_75,VienneseWaltz,0.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-105112_105_hpss,VienneseWaltz,0.0,1.4142135623730951,music standard,1,6,VienneseWaltz,3
+Media-105112_105,VienneseWaltz,0.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-105112_135_hpss,VienneseWaltz,0.0,2.0,music standard,1,5,Tango,3
+Media-105112_135,VienneseWaltz,0.0,2.0,music standard,0,6,VienneseWaltz,3
+Media-105112_101_hpss,VienneseWaltz,-1.0,1.4142135623730951,speech,1,6,VienneseWaltz,5
+Media-105112_101,VienneseWaltz,-1.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-105112_13_hpss,VienneseWaltz,0.0,0.5,film standard,1,7,Waltz,1
+Media-105112_13,VienneseWaltz,0.0,0.5,film standard,0,7,Waltz,1
+Media-105112_119_hpss,VienneseWaltz,2.0,1.4142135623730951,speech,1,6,VienneseWaltz,5
+Media-105112_119,VienneseWaltz,2.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-105112_11_hpss,VienneseWaltz,-1.0,0.5,speech,1,7,Waltz,5
+Media-105112_11,VienneseWaltz,-1.0,0.5,speech,0,7,Waltz,5
+Media-105112_52_hpss,VienneseWaltz,1.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-105112_52,VienneseWaltz,1.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-105112_05_hpss,VienneseWaltz,-2.0,0.5,speech,1,7,Waltz,5
+Media-105112_05,VienneseWaltz,-2.0,0.5,speech,0,7,Waltz,5
+Media-105112_16_hpss,VienneseWaltz,0.0,0.5,music light,1,7,Waltz,2
+Media-105112_16,VienneseWaltz,0.0,0.5,music light,0,7,Waltz,2
+Media-105112_99_hpss,VienneseWaltz,-1.0,1.4142135623730951,music standard,1,6,VienneseWaltz,3
+Media-105112_99,VienneseWaltz,-1.0,1.4142135623730951,music standard,0,6,VienneseWaltz,3
+Media-105112_65_hpss,VienneseWaltz,-2.0,1.0,speech,1,7,Waltz,5
+Media-105112_65,VienneseWaltz,-2.0,1.0,speech,0,6,VienneseWaltz,5
+Media-105112_148_hpss,VienneseWaltz,2.0,2.0,music light,1,5,Tango,2
+Media-105112_148,VienneseWaltz,2.0,2.0,music light,0,5,Tango,2
+Media-105112_32_hpss,VienneseWaltz,-2.0,0.7071067811865476,film light,1,7,Waltz,0
+Media-105112_32,VienneseWaltz,-2.0,0.7071067811865476,film light,0,6,VienneseWaltz,0
+Media-105112_120_hpss,VienneseWaltz,-2.0,2.0,radio,1,6,VienneseWaltz,4
+Media-105112_120,VienneseWaltz,-2.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105112_22_hpss,VienneseWaltz,1.0,0.5,music light,1,7,Waltz,2
+Media-105112_22,VienneseWaltz,1.0,0.5,music light,0,6,VienneseWaltz,2
+Media-105112_91_hpss,VienneseWaltz,-2.0,1.4142135623730951,film standard,1,6,VienneseWaltz,1
+Media-105112_91,VienneseWaltz,-2.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-105112_23_hpss,VienneseWaltz,1.0,0.5,speech,1,7,Waltz,5
+Media-105112_23,VienneseWaltz,1.0,0.5,speech,0,7,Waltz,5
+Media-105112_102_hpss,VienneseWaltz,0.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-105112_102,VienneseWaltz,0.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105112_144_hpss,VienneseWaltz,2.0,2.0,radio,1,5,Tango,4
+Media-105112_144,VienneseWaltz,2.0,2.0,radio,0,5,Tango,4
+Media-105112_18_hpss,VienneseWaltz,1.0,0.5,radio,1,6,VienneseWaltz,4
+Media-105112_18,VienneseWaltz,1.0,0.5,radio,0,6,VienneseWaltz,4
+Media-105112_64_hpss,VienneseWaltz,-2.0,1.0,music light,1,6,VienneseWaltz,2
+Media-105112_64,VienneseWaltz,-2.0,1.0,music light,0,6,VienneseWaltz,2
+Media-105112_66_hpss,VienneseWaltz,-1.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105112_66,VienneseWaltz,-1.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105112_27_hpss,VienneseWaltz,2.0,0.5,music standard,1,7,Waltz,3
+Media-105112_27,VienneseWaltz,2.0,0.5,music standard,0,6,VienneseWaltz,3
+Media-105112_42_hpss,VienneseWaltz,0.0,0.7071067811865476,radio,1,6,VienneseWaltz,4
+Media-105112_42,VienneseWaltz,0.0,0.7071067811865476,radio,0,6,VienneseWaltz,4
+Media-105112_94_hpss,VienneseWaltz,-2.0,1.4142135623730951,music light,1,6,VienneseWaltz,2
+Media-105112_94,VienneseWaltz,-2.0,1.4142135623730951,music light,0,6,VienneseWaltz,2
+Media-105112_73_hpss,VienneseWaltz,0.0,1.0,film standard,1,7,Waltz,1
+Media-105112_73,VienneseWaltz,0.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-105112_127_hpss,VienneseWaltz,-1.0,2.0,film standard,1,6,VienneseWaltz,1
+Media-105112_127,VienneseWaltz,-1.0,2.0,film standard,0,6,VienneseWaltz,1
+Media-105112_67_hpss,VienneseWaltz,-1.0,1.0,film standard,1,7,Waltz,1
+Media-105112_67,VienneseWaltz,-1.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-105112_138_hpss,VienneseWaltz,1.0,2.0,radio,1,6,VienneseWaltz,4
+Media-105112_138,VienneseWaltz,1.0,2.0,radio,0,6,VienneseWaltz,4
+Media-105112_15_hpss,VienneseWaltz,0.0,0.5,music standard,1,7,Waltz,3
+Media-105112_15,VienneseWaltz,0.0,0.5,music standard,0,7,Waltz,3
+Media-105112_95_hpss,VienneseWaltz,-2.0,1.4142135623730951,speech,1,6,VienneseWaltz,5
+Media-105112_95,VienneseWaltz,-2.0,1.4142135623730951,speech,0,6,VienneseWaltz,5
+Media-105112_115_hpss,VienneseWaltz,2.0,1.4142135623730951,film standard,1,6,VienneseWaltz,1
+Media-105112_115,VienneseWaltz,2.0,1.4142135623730951,film standard,0,6,VienneseWaltz,1
+Media-105112_72_hpss,VienneseWaltz,0.0,1.0,radio,1,6,VienneseWaltz,4
+Media-105112_72,VienneseWaltz,0.0,1.0,radio,0,6,VienneseWaltz,4
+Media-105112_34_hpss,VienneseWaltz,-2.0,0.7071067811865476,music light,1,6,VienneseWaltz,2
+Media-105112_34,VienneseWaltz,-2.0,0.7071067811865476,music light,0,6,VienneseWaltz,2
+Media-105112_61_hpss,VienneseWaltz,-2.0,1.0,film standard,1,7,Waltz,1
+Media-105112_61,VienneseWaltz,-2.0,1.0,film standard,0,6,VienneseWaltz,1
+Media-105112_69_hpss,VienneseWaltz,-1.0,1.0,music standard,1,7,Waltz,3
+Media-105112_69,VienneseWaltz,-1.0,1.0,music standard,0,6,VienneseWaltz,3
+Media-105112_140_hpss,VienneseWaltz,1.0,2.0,film light,1,5,Tango,0
+Media-105112_140,VienneseWaltz,1.0,2.0,film light,0,6,VienneseWaltz,0
+Media-105112_71_hpss,VienneseWaltz,-1.0,1.0,speech,1,7,Waltz,5
+Media-105112_71,VienneseWaltz,-1.0,1.0,speech,0,6,VienneseWaltz,5
+Media-105112_10_hpss,VienneseWaltz,-1.0,0.5,music light,1,7,Waltz,2
+Media-105112_10,VienneseWaltz,-1.0,0.5,music light,0,6,VienneseWaltz,2
+Media-105112_147_hpss,VienneseWaltz,2.0,2.0,music standard,1,5,Tango,3
+Media-105112_147,VienneseWaltz,2.0,2.0,music standard,0,5,Tango,3
+Media-105112_89_hpss,VienneseWaltz,2.0,1.0,speech,1,7,Waltz,5
+Media-105112_89,VienneseWaltz,2.0,1.0,speech,0,6,VienneseWaltz,5
+Media-105112_108_hpss,VienneseWaltz,1.0,1.4142135623730951,radio,1,6,VienneseWaltz,4
+Media-105112_108,VienneseWaltz,1.0,1.4142135623730951,radio,0,6,VienneseWaltz,4
+Media-105112_08_hpss,VienneseWaltz,-1.0,0.5,film light,1,7,Waltz,0
+Media-105112_08,VienneseWaltz,-1.0,0.5,film light,0,7,Waltz,0
+Media-105112_28_hpss,VienneseWaltz,2.0,0.5,music light,1,7,Waltz,2
+Media-105112_28,VienneseWaltz,2.0,0.5,music light,0,6,VienneseWaltz,2

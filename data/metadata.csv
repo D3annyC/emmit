@@ -1,0 +1,97 @@
+file_name,type,n_semitones,rate,preset,hpss
+Albums-Latin_Jam2-09_04,Rumba,-2.0,0.5,music light,0
+Albums-Latin_Jam2-09_04_hpss,Rumba,-2.0,0.5,music light,1
+Albums-Latin_Jam2-09_05,Rumba,-2.0,0.5,speech,0
+Albums-Latin_Jam2-09_05_hpss,Rumba,-2.0,0.5,speech,1
+Albums-Latin_Jam2-09_02,Rumba,-2.0,0.5,film light,0
+Albums-Latin_Jam2-09_02_hpss,Rumba,-2.0,0.5,film light,1
+Albums-Latin_Jam2-09_03,Rumba,-2.0,0.5,music standard,0
+Albums-Latin_Jam2-09_03_hpss,Rumba,-2.0,0.5,music standard,1
+Albums-Latin_Jam2-09_00,Rumba,-2.0,0.5,radio,0
+Albums-Latin_Jam2-09_00_hpss,Rumba,-2.0,0.5,radio,1
+Albums-Latin_Jam2-09_01,Rumba,-2.0,0.5,film standard,0
+Albums-Latin_Jam2-09_01_hpss,Rumba,-2.0,0.5,film standard,1
+Albums-Chrisanne1-03_00,Waltz,-2.0,0.5,radio,0
+Albums-Chrisanne1-03_00_hpss,Waltz,-2.0,0.5,radio,1
+Albums-Chrisanne1-03_01,Waltz,-2.0,0.5,film standard,0
+Albums-Chrisanne1-03_01_hpss,Waltz,-2.0,0.5,film standard,1
+Albums-Chrisanne1-03_02,Waltz,-2.0,0.5,film light,0
+Albums-Chrisanne1-03_02_hpss,Waltz,-2.0,0.5,film light,1
+Albums-Chrisanne1-03_03,Waltz,-2.0,0.5,music standard,0
+Albums-Chrisanne1-03_03_hpss,Waltz,-2.0,0.5,music standard,1
+Albums-Chrisanne1-03_04,Waltz,-2.0,0.5,music light,0
+Albums-Chrisanne1-03_04_hpss,Waltz,-2.0,0.5,music light,1
+Albums-Chrisanne1-03_05,Waltz,-2.0,0.5,speech,0
+Albums-Chrisanne1-03_05_hpss,Waltz,-2.0,0.5,speech,1
+Media-105112_03,VienneseWaltz,-2.0,0.5,music standard,0
+Media-105112_03_hpss,VienneseWaltz,-2.0,0.5,music standard,1
+Media-105112_02,VienneseWaltz,-2.0,0.5,film light,0
+Media-105112_02_hpss,VienneseWaltz,-2.0,0.5,film light,1
+Media-105112_05,VienneseWaltz,-2.0,0.5,speech,0
+Media-105112_05_hpss,VienneseWaltz,-2.0,0.5,speech,1
+Media-105112_04,VienneseWaltz,-2.0,0.5,music light,0
+Media-105112_04_hpss,VienneseWaltz,-2.0,0.5,music light,1
+Media-105112_01,VienneseWaltz,-2.0,0.5,film standard,0
+Media-105112_01_hpss,VienneseWaltz,-2.0,0.5,film standard,1
+Media-105112_00,VienneseWaltz,-2.0,0.5,radio,0
+Media-105112_00_hpss,VienneseWaltz,-2.0,0.5,radio,1
+Media-103604_03,ChaChaCha,-2.0,0.5,music standard,0
+Media-103604_03_hpss,ChaChaCha,-2.0,0.5,music standard,1
+Media-103604_02,ChaChaCha,-2.0,0.5,film light,0
+Media-103604_02_hpss,ChaChaCha,-2.0,0.5,film light,1
+Media-103604_05,ChaChaCha,-2.0,0.5,speech,0
+Media-103604_05_hpss,ChaChaCha,-2.0,0.5,speech,1
+Media-103604_04,ChaChaCha,-2.0,0.5,music light,0
+Media-103604_04_hpss,ChaChaCha,-2.0,0.5,music light,1
+Media-103604_01,ChaChaCha,-2.0,0.5,film standard,0
+Media-103604_01_hpss,ChaChaCha,-2.0,0.5,film standard,1
+Media-103604_00,ChaChaCha,-2.0,0.5,radio,0
+Media-103604_00_hpss,ChaChaCha,-2.0,0.5,radio,1
+Media-103819_03,Jive,-2.0,0.5,music standard,0
+Media-103819_03_hpss,Jive,-2.0,0.5,music standard,1
+Media-103819_02,Jive,-2.0,0.5,film light,0
+Media-103819_02_hpss,Jive,-2.0,0.5,film light,1
+Media-103819_05,Jive,-2.0,0.5,speech,0
+Media-103819_05_hpss,Jive,-2.0,0.5,speech,1
+Media-103819_04,Jive,-2.0,0.5,music light,0
+Media-103819_04_hpss,Jive,-2.0,0.5,music light,1
+Media-103819_01,Jive,-2.0,0.5,film standard,0
+Media-103819_01_hpss,Jive,-2.0,0.5,film standard,1
+Media-103819_00,Jive,-2.0,0.5,radio,0
+Media-103819_00_hpss,Jive,-2.0,0.5,radio,1
+Media-104708_01,Tango,-2.0,0.5,film standard,0
+Media-104708_01_hpss,Tango,-2.0,0.5,film standard,1
+Media-104708_00,Tango,-2.0,0.5,radio,0
+Media-104708_00_hpss,Tango,-2.0,0.5,radio,1
+Media-104708_05,Tango,-2.0,0.5,speech,0
+Media-104708_05_hpss,Tango,-2.0,0.5,speech,1
+Media-104708_04,Tango,-2.0,0.5,music light,0
+Media-104708_04_hpss,Tango,-2.0,0.5,music light,1
+Media-104708_03,Tango,-2.0,0.5,music standard,0
+Media-104708_03_hpss,Tango,-2.0,0.5,music standard,1
+Media-104708_02,Tango,-2.0,0.5,film light,0
+Media-104708_02_hpss,Tango,-2.0,0.5,film light,1
+Media-103715_04,Samba,-2.0,0.5,music light,0
+Media-103715_04_hpss,Samba,-2.0,0.5,music light,1
+Media-103715_05,Samba,-2.0,0.5,speech,0
+Media-103715_05_hpss,Samba,-2.0,0.5,speech,1
+Media-103715_02,Samba,-2.0,0.5,film light,0
+Media-103715_02_hpss,Samba,-2.0,0.5,film light,1
+Media-103715_03,Samba,-2.0,0.5,music standard,0
+Media-103715_03_hpss,Samba,-2.0,0.5,music standard,1
+Media-103715_00,Samba,-2.0,0.5,radio,0
+Media-103715_00_hpss,Samba,-2.0,0.5,radio,1
+Media-103715_01,Samba,-2.0,0.5,film standard,0
+Media-103715_01_hpss,Samba,-2.0,0.5,film standard,1
+Albums-Ballroom_Magic-17_01,Quickstep,-2.0,0.5,film standard,0
+Albums-Ballroom_Magic-17_01_hpss,Quickstep,-2.0,0.5,film standard,1
+Albums-Ballroom_Magic-17_00,Quickstep,-2.0,0.5,radio,0
+Albums-Ballroom_Magic-17_00_hpss,Quickstep,-2.0,0.5,radio,1
+Albums-Ballroom_Magic-17_05,Quickstep,-2.0,0.5,speech,0
+Albums-Ballroom_Magic-17_05_hpss,Quickstep,-2.0,0.5,speech,1
+Albums-Ballroom_Magic-17_04,Quickstep,-2.0,0.5,music light,0
+Albums-Ballroom_Magic-17_04_hpss,Quickstep,-2.0,0.5,music light,1
+Albums-Ballroom_Magic-17_03,Quickstep,-2.0,0.5,music standard,0
+Albums-Ballroom_Magic-17_03_hpss,Quickstep,-2.0,0.5,music standard,1
+Albums-Ballroom_Magic-17_02,Quickstep,-2.0,0.5,film light,0
+Albums-Ballroom_Magic-17_02_hpss,Quickstep,-2.0,0.5,film light,1
