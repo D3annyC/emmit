@@ -18,7 +18,7 @@ pip install .
 
 ## Configuration setup
 
-To configure the audio transformations, please refer to the [configuration file](./configuration.yaml).
+To configure the audio transformations, please refer to the [configuration file](./configuration.yml).
 
 - `augmented_audio_save_path`: The path to save the augmented audio outputs.
 - `augmented_meta_save_path`: The path to save the augmented metadata.
