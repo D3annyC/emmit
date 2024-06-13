@@ -1,6 +1,6 @@
-# Audio Transformations Based Explanations (ATBE)
+# Explaining Music Models through Input Transformation (EMMIT)
 
-A library explaining the key acoustic features that are important for predicting certain categories by analyzing errors in modified input data. Furthermore, it uses LIME on surrogate features created while augmenting data.
+A framework for explaining music and audio models by applying transformations to input audio files (modifying tempo, pitch, mode, structure, instruments) and observing model behaviour on this modified input. It is crucial to understand which transformations should and should not be relevant to prediction in every particular model. 
 
 ## Requirements
 
