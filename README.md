@@ -30,4 +30,4 @@ To configure the audio transformations, please refer to the [configuration file]
 
 ## Usage Examples
 
-The usage example, please refer to the [example.ipynb](./example.ipynb). This notebook demonstrates how to use the library to generate augmented data, train a model, and generate explanations. The example model is in [models](./models/). The example data to show the usage of library is in [data](./data/).
+The usage example, please refer to the [example.ipynb](./example.ipynb). This notebook demonstrates how to use the library to generate augmented data, train a model, and generate explanations. The example model is in [model](./model/). The example data to show the usage of library is in [data](./data/).
