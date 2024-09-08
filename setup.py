@@ -1,10 +1,10 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="atbe",
+    name="emmit",
     version="0.2.0",
-    description="Audio Transformations Based Explanations",
-    url="https://github.com/D3annyC/atbe",
+    description="Explaining Music Models through Input Transformation",
+    url="https://github.com/D3annyC/emmit",
     author="ChengHan Chung, Anna Aljanaki",
     author_email="ch.chung127@gmail.com",
     license="MIT License",
@@ -20,7 +20,7 @@ setup(
         "librosa",
         "soundfile",
         "muda",
-        "tqdm",
+        "tqdm"
     ],
     extras_require={
         "dev": ["pytest"],
